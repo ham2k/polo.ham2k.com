@@ -1,77 +1,58 @@
 ---
-title: Goldydocs
+title: PoLo Portable Logger
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to PoLo: The Portable Logger" image_anchor="top" height="full" >}}
+<div>
+  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='240' /></a>   <a href='https://testflight.apple.com/join/TjRq5t5Y'  target='_blank'><img src='./apple-testflight-badge.png' alt='Apple Testflight' width='240' /></a>
+</div>
+
+<br />
+
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Read the Fine Manual <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+
+<p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+PoLo, short for Portable Logger, is a mobile application for amateur radio operators to log their contacts on the go. It is designed to be simple, fast, and easy to use, with a focus on the most important features for logging contacts.
+
+It supports multiple activation types such as: POTA - Parks On The Air, SOTA - Summits On The Air, WWFF - Worldwide Flora & Fauna,
+Field Day, Winter Field Day, and many more.
+
 {{% /blocks/lead %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
 
-Please follow this space for updates!
+{{% blocks/feature icon="fab fa-discord" title="Join our Community!" %}}
+
+Our [Discord Server](https://discord.gg/c4Th9QkByJ) is where you can chat with the developers and other users, report issues, get help, and more.
+
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+
+{{% blocks/feature icon="fab fa-github" title="PoLo is Open Source!" %}}
+
+Check the [source code](https://github.com/ham2k/app-polo) on **GitHub**. New contributors are always welcome!
+
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+
+{{% blocks/feature icon="fa fa-coins" title="Support the Project!" %}}
+
+Help keep the PoLo going with your money at [Buy Me A Coffee](https://buymeacoffee.com/ham2k). Any amount helps cover the project's costs and is greatly appreciated!
+
 {{% /blocks/feature %}}
 
 
 {{% /blocks/section %}}
 
 
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}

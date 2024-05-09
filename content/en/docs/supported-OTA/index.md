@@ -1,10 +1,10 @@
 ---
 title: Supported OTA
-description: Types of "On The Air" suported 
+description: Types of "On The Air" supported 
 weight: 10
 ---
 
-PoLo is currently suports the following "On The Air" types of operations. More will be added over time and if you have a request please ask on the Discord Server
+PoLo is currently supports the following "On The Air" types of operations. More will be added over time and if you have a request please ask on the Discord Server
 
 ### POTA - Parks On The Air 
 <a href=https://parksontheair.com/  target='_blank'></a>
@@ -24,4 +24,8 @@ PoLo is currently suports the following "On The Air" types of operations. More w
 ### ECA - English Castles On The Air
 
 <a href=https://englishcastlesawards.uk/  target='_blank'></a>
+
+### Custom Activity
+
+You can add a custom Activity, you just need the MY_SIG_INFO at a minimum 
 

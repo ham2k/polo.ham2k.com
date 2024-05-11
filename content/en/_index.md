@@ -2,7 +2,8 @@
 title: PoLo Portable Logger
 ---
 
-{{< blocks/cover title="Welcome to PoLo: The Portable Logger" image_anchor="top" height="full" >}}
+{{< blocks/cover image_anchor="top" height="full" >}}
+<h1><light>Ham2K</light><br />Portable Logger</h1>
 <div>
   <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='240' /></a>   <a href='https://testflight.apple.com/join/TjRq5t5Y'  target='_blank'><img src='./apple-testflight-badge.png' alt='Apple Testflight' width='240' /></a>
 </div>

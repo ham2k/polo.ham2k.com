@@ -1,12 +1,12 @@
 ---
-title: Supported OTA
-description: Types of "On The Air" supported 
+title: Supported Activities
+description: Types of "On The Air" supported
 weight: 10
 ---
 
 PoLo is currently supports the following "On The Air" types of operations. More will be added over time and if you have a request please ask on the Discord Server
 
-### POTA - Parks On The Air 
+### POTA - Parks On The Air
 <a href=https://parksontheair.com/  target='_blank'></a>
 
 ### SOTA - Summits On The Air
@@ -27,5 +27,5 @@ PoLo is currently supports the following "On The Air" types of operations. More 
 
 ### Custom Activity
 
-You can add a custom Activity, you just need the MY_SIG_INFO at a minimum 
+You can add a custom Activity, you just need the MY_SIG_INFO at a minimum
 

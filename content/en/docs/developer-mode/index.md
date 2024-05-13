@@ -1,7 +1,7 @@
 ---
 title: Developer Mode
 description: Advanced features for developers and brave users.
-weight: 99
+weight: 20
 ---
 
 {{% pageinfo %}}
@@ -29,3 +29,10 @@ In the Deverloper Settings you can now select between three different "update ch
 - **Bleeding Edge**: Work in progress, with the newest features and bug fixes, but also the most likely to have issues.
 
 After changing channels, you should use the option to "Check for new versions" to download the latest version from the selected channel.
+
+### Raw Data Export and Import
+
+In Developer Mode you can now export and import raw data files used by PoLo, in the "QSON" data format used internally by the app.
+
+You can export an operation in the Operation Settings tab. And you can import a QSON file as a new operation from the
+main Developer Settings screen.

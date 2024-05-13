@@ -19,7 +19,7 @@ When you are in the callsign input field, you can use the following shortcuts, a
 
 * Enter a time difference to change the QSO time. For example, if you are logging a QSO at `14:30` and you type `+15m`, the time will change to `14:45`. If you type `-1h`, the time will change to `13:30`. You can use `h` for hours, `m` for minutes, and `s` for seconds, as well as `d` for days and `w` for weeks.
 
-* Enter `KONAMI` to enable or dissable [Developer Mode](../developer-mode/).
+* Enter `KONAMI` to enable or disable [Developer Mode](../developer-mode/).
 
 
 ## Smart Data Entry
@@ -27,6 +27,8 @@ When you are in the callsign input field, you can use the following shortcuts, a
 In most activation reference fields (POTA, SOTA, etc) you only need to enter letters and number, and PoLo will automatically fill in any dashes and slashes. And in many cases you can skip the prefix too and PoLo will guess it from the callsign.
 
 So for a POTA Park-to-Park contact with, say, `LB4FH` in `NO-2518`, you can just enter `2518` and PoLo will fill in the rest.
+
+For SOTA reference `VK1/AC-001`, you can just enter `VK1AC001` and PoLo will fill in the rest.
 
 
 ## Quick field selection

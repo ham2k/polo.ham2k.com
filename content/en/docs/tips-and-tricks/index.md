@@ -28,7 +28,7 @@ In most activation reference fields (POTA, SOTA, etc) you only need to enter let
 
 So for a POTA Park-to-Park contact with, say, `LB4FH` in `NO-2518`, you can just enter `2518` and PoLo will fill in the rest.
 
-For SOTA reference `VK1/AC-001`, you can just enter `VK1AC001` and PoLo will fill in the rest.
+For SOTA reference `VK1/AC-001`, all you need is to enter `VK1AC001`.
 
 
 ## Quick field selection

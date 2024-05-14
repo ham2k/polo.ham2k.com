@@ -5,7 +5,7 @@ title: PoLo Portable Logger
 {{< blocks/cover image_anchor="top" height="full" >}}
 <h1><light>Ham2K</light><br />Portable Logger</h1>
 <div>
-  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='240' /></a>   <a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.png' alt='Apple AppStore' width='240' /></a>
+  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='240' /></a>   <a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
 </div>
 
 <br />

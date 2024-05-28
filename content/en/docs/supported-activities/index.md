@@ -37,6 +37,21 @@ Data file downloaded on device.
 <a href='https://englishcastlesawards.uk/' target='_blank'>Official Site</a> •
 Data file downloaded on device.
 
+### SiOTA - Silos On The Air
+
+<a href='https://www.silosontheair.com/' target='_blank'>Official Site</a> •
+Data file downloaded on device.
+
+### GMA - Global Mountain Activity - Summits
+
+<a href='https://www.cqgma.org/smtdsp.php' target='_blank'>Official Site</a> •
+Data file downloaded on device.
+
+### GMA - English Lighthouse Awards
+
+<a href='[https://www.cqgma.org/smtdsp.php](https://www.cqgma.org/lhfind.php)' target='_blank'>Official Site</a> •
+Data file downloaded on device.
+
 ### Custom Activity
 
 If the activity you are interested in is not listed above, you can still add it as a "Custom Activity" as long

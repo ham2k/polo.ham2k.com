@@ -1,6 +1,6 @@
 ---
 title: Tips and Tricks
-weight: 4
+weight: 1
 description: Helpful hints and shortcuts for using PoLo.
 
 ---

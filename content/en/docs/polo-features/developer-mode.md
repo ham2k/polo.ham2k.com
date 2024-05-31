@@ -1,7 +1,7 @@
 ---
 title: Developer Mode
 description: Advanced features for developers and brave users.
-weight: 20
+weight: 10
 ---
 
 {{% pageinfo %}}

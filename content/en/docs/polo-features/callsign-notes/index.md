@@ -1,14 +1,10 @@
 ---
-title: "Offline data file Extensions"
-linkTitle: "Callsign Notes"
-weight: 100
-description: >-
-     Using Builtin and/or Custom Callsign Notes extension files for offline names and details lookups whilst logging
+title: "Callsign Notes"
+weight: 3
+description: Custom notes for callsigns that are shown while logging
 ---
 
-## Callsign Notes
-
-Callsing Notes is a feature that allows you to show short notes for specific callsigns in the logging screen. This can be useful to remember the name of a friend, or to know if a station is a member of a club or a special event station.
+"Callsing Notes" is a feature that allows you to show short notes for specific callsigns in the logging screen. This can be useful to remember the name of a friend, or to know if a station is a member of a club or a special event station.
 
 PoLo comes with a built-in file, called "Ham2K's Hams of Note", but you can add as many additional files as you want, and enable and disable them as needed.
 
@@ -35,13 +31,15 @@ The file also supports simplified markdown tags [similar to the ones used on Git
 
 ### File storage and access
 
-<img align="right" src="https://www.meta.com.au/apphelp/mparks/clip0135.png" />Once this file is created, you may place the file in your favourite cloud storage folder and copy the perma link for the file to be installed into PoLo. In the Callsign Notes page, click on ```+ Add a new file``` then give the file a name and copy the url into the Location field. Activate the file with the slider control.
+![Define](clip0135.png)
 
-![Install](https://www.meta.com.au/apphelp/mparks/clip0138.png)
+Once this file is created, you may place the file in your favourite cloud storage folder and copy the perma link for the file to be installed into PoLo. In the Callsign Notes page, click on ```+ Add a new file``` then give the file a name and copy the url into the Location field. Activate the file with the slider control.
+
+![Install](clip0138.png)
 
 From this point, you may return to the Offline Data page and click on the file name so you can Refresh the file.
 
-![Refresh](https://www.meta.com.au/apphelp/mparks/clip0140.png)
+![Refresh](clip0140.png)
 
 The URL you provide must be a direct link to the file in plain text, and not a link to a web page that contains the file as it's often the case for file sharing tools and cloud storage services.
 

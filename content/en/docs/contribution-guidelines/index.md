@@ -76,4 +76,9 @@ If you've found a problem in the docs, but you're not sure how to fix it yoursel
 * [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
 * [Github Hello World!](https://guides.github.com/activities/hello-world/): A basic introduction to GitHub concepts and workflow.
 
+## How to...
 
+### Add an Icon
+
+If you want to add an icon to a page, referencing one of the icons in the app, visit the [Material Design Icon Community Library](https://pictogrammers.com/library/mdi/), find the icon you want,
+click on the <svg viewBox="0 0 24 24" height="1.5rem"><path d="M12.89,3L14.85,3.4L11.11,21L9.15,20.6L12.89,3M19.59,12L16,8.41V5.58L22.42,12L16,18.41V15.58L19.59,12M1.58,12L8,5.58V8.41L4.41,12L8,15.58V18.41L1.58,12Z" style="fill: currentcolor;"></path></svg> "Copy SVG" button, paste the SVG code into your page and add a `height="1.5rem"` attribute to the `<svg>` tag to set the size.

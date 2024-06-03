@@ -4,9 +4,9 @@ weight: 3
 description: Custom notes for callsigns that are shown while logging
 ---
 
-"Callsing Notes" is a feature that allows you to show short notes for specific callsigns in the logging screen. This can be useful to remember the name of a friend, or to know if a station is a member of a club or a special event station.
+"**Callsing Notes**" is a feature that allows you to show short notes for specific callsigns in the logging screen. This can be useful to remember the name of a friend, or to know if a station is a member of a club or a special event station.
 
-PoLo comes with a built-in file, called "Ham2K's Hams of Note", but you can add as many additional files as you want, and enable and disable them as needed.
+PoLo comes with a built-in file, called "**Ham2K's Hams of Note**", but you can add as many additional files as you want, and enable and disable them as needed.
 
 ### Custom Files
 
@@ -31,13 +31,24 @@ The file also supports simplified markdown tags [similar to the ones used on Git
 
 ### File storage and access
 
-![Define](clip0135.png)
+<img align="right" src="clip0135.png" />Once this file is created, you may place the file in your favourite cloud storage folder and copy the perma link for the file to be installed into PoLo. 
 
-Once this file is created, you may place the file in your favourite cloud storage folder and copy the perma link for the file to be installed into PoLo. In the Callsign Notes page, click on ```+ Add a new file``` then give the file a name and copy the url into the Location field. Activate the file with the slider control.
+**Step 1:** In the application Settings, tap Data Settings.
 
+**Step 2:** In the Data Settings, tap Callsign Notes
+![Data Settings](https://www.meta.com.au/apphelp/mparks/clip0136.png)
+
+**Step 3:** In the Callsign Notes page, click on ```+ Add a new file``` then give the file a name and copy the url into the Location field. Activate the file with the slider control.
+
+![Add New File](https://www.meta.com.au/apphelp/mparks/clip0137.png)
+
+**Step 4:** In the Custom window, provide a name for your files and paste the url for the file into the Location field
 ![Install](clip0138.png)
 
-From this point, you may return to the Offline Data page and click on the file name so you can Refresh the file.
+**Step 5:** Click Done to return to the Callsign Notes, then enable the file you have added by using the slider control
+![Enable New File](https://www.meta.com.au/apphelp/mparks/clip0139.png)
+
+**Step 6:** From this point, you may return to the Offline Data page and click on the file name so you can Refresh the file. This action will pull the file onto the device. The date and time of the last update is shown in this dialog so future refresh actions can be managed as your wish. Click Done.
 
 ![Refresh](clip0140.png)
 

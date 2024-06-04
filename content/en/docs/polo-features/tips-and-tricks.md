@@ -52,3 +52,8 @@ This also works when editing existing QSOs if you want to duplicate the informat
 ## Smart Slash
 
 Most phone and tablet keyboards make it hard to enter a slash (`/`) character, which is often needed when logging callsigns like `WV3H/VE` or `VK1AO/P`. A period (`.`) can be used instead and PoLo will convert it to a slash.
+
+
+## Bearing and distance
+
+Entering your qrz.com credentials in Settings > Accounts > QRZ will enable PoLo to provide details of contacts you make. If you have a qrz.com subscription it will also provide bearing and distance information to your contact. 

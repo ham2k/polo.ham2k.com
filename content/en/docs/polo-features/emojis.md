@@ -9,21 +9,11 @@ description: What to the emojis in the log mean?
 
 <p>Every now and then you will see an emoji within the Callsign Info Panel, for example if you enter KI2D you'll get the following: 🤩 Sebastián - Ham2K PoLo Creator.</p> 
 
-You can expect to see any of the following:<br>
+You can expect to see any of the following, and some others too:<br>
 🧑‍💻 - Ham2K PoLo contributor<br>
-😁 - Ham2K Discord elmer<br>
 👷 - Ham2K Test Crew<br>
-🎧 - Podcaster<br>
 📺 - YouTuber<br>
-🤳 - Tiktoker<br>
-🏞️ - Instagrammer<br>
-💻 - Software developer<br>
-🏅 - Amatuer Radio Software Award<br>
-🌳 - POTA team<br>
-⛰️ - SOTA team<br>
-🌎 - Clublog team<br>
-🏆 - Superstation<br>
-☕️ - Ham2K QSL Club <br><br>
+💻 - Software developer<br><br>
 
-The full list can be seen in the <a href="view-source:https://ham2k.com/data/hams-of-note.txt">Hams of Note webpage</a>.
+In addition it's possible to add your own list of callsigns with details (and emojis) using the Settings > Data Sttings > Custom Callsign Notes option. You can link to your offsite list which could include POTA friends, fellow club members etc.
 

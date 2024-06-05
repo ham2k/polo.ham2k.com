@@ -5,7 +5,7 @@ description: How PoLo is operated.
 
 ---
 
-## Shortcut Polo Features
+## Shortcut Polo Operations Panel
 
 The PoLo Operations Panel is where you will interact with the package once you've set up you operation. Once your frequency and mode have been entered (which may have been picked up from your previous operation) the left pointing (or less than) arrow exapnds the operations panel to show all available interactions. Tapping the Controls (settings) wheel will reveal any that are available, but not set with the operation. This might be useful when a caller from an unexpected award system such as UKBOTA or SiOTA call you. Selecting them from the More Controls section will make them available for use within the Active Controls. Once the selection is complete back out of the Controls section by tapping the Controls wheel.
 

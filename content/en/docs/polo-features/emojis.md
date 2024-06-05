@@ -15,7 +15,7 @@ You can expect to see any of the following:<br>
 👷 - Ham2K Test Crew<br>
 🎧 - Podcaster<br>
 📺 - YouTuber<br>
-🤳 - Ticktoker<br>
+🤳 - Tiktoker<br>
 🏞️ - Instagrammer<br>
 💻 - Software developer<br>
 🏅 - Amatuer Radio Software Award<br>

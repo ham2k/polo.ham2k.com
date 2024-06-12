@@ -14,12 +14,12 @@ Once you have access to the band or mode you're searching for enable it by using
 ### Enabling other modes and bands
 The list of the most popular modes and bands are enabled by default. There are numerous other bands and modes available and can be enabled by the user.
 
-![BandsModes](https://github.com/ham2k/polo.ham2k.com/assets/61640726/ca056012-a103-49ff-98f4-568ffdb4a77a)
+![Bands and Modes](./shot1.png)
 
 To enable more Bands or Modes, first select Logging Settings then click Bands and Modes. The currently available bands and modes are listed on the next screen which allows for more to be enabled by clicking the slider controls. Still more bands and modes are available behind the `Show all bands` or `Show more modes` item.
 
-![MoreBandsModes](https://github.com/ham2k/polo.ham2k.com/assets/61640726/0349a920-6730-4007-a55d-733ce609fc44)
+![More Bands and Modes](./shot2.png)
 
 Once open, the Bands & Modes page will show even more bands or modes. Enable the bands or modes desired using the slider controls and return to Operation Settings
 
-![EnableModes](https://github.com/ham2k/polo.ham2k.com/assets/61640726/a9e63dac-2f21-42bf-8032-a89f3d069c8b)
+![Enable Modes](./shot3.png)

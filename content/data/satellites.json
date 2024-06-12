@@ -1,0 +1,79 @@
+[
+  {
+    "name": "AO-7",
+    "nasaName": "AO-07",
+    "number": 7530,
+    "modulations": [
+      "linear"
+    ],
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 29.4,
+        "upperMHz": 29.5
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 145.925,
+        "upperMHz": 145.975
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.85,
+        "upperMHz": 145.95
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 432.125,
+        "upperMHz": 432.175
+      }
+    ]
+  },
+  {
+    "name": "AO-27",
+    "number": 22825,
+    "modulations": [
+      "fm"
+    ],
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.795,
+        "upperMHz": 436.795
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.85,
+        "upperMHz": 145.85
+      }
+    ]
+  },
+  {
+    "name": "AO-73",
+    "aliases": [
+      "FUNcube-1"
+    ],
+    "number": 39444,
+    "modulations": [
+      "linear"
+    ],
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.95,
+        "upperMHz": 145.97
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.13,
+        "upperMHz": 435.15
+      }
+    ]
+  }
+]

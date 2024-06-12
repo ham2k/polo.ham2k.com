@@ -4,7 +4,7 @@ weight: 3
 description: Custom notes for callsigns that are shown while logging
 ---
 
-"**Callsing Notes**" is a feature that allows you to show short notes for specific callsigns in the logging screen. This can be useful to remember the name of a friend, or to know if a station is a member of a club or a special event station.
+"**Callsign Notes**" is a feature that allows you to show short notes for specific callsigns in the logging screen. This can be useful to remember the name of a friend, or to know if a station is a member of a club or a special event station.
 
 PoLo comes with a built-in file, called "**Ham2K's Hams of Note**", but you can add as many additional files as you want, and enable and disable them as needed.
 

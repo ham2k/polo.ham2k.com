@@ -6,25 +6,25 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 29.4000,
-        "upper_mhz": 29.5000
+        "lowerMHz": 29.4000,
+        "upperMHz": 29.5000
       },
       {
         "mode": "linear",
-        "lower_mhz": 145.925,
-        "upper_mhz": 145.975
+        "lowerMHz": 145.925,
+        "upperMHz": 145.975
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.850,
-        "upper_mhz": 145.950
+        "lowerMHz": 145.850,
+        "upperMHz": 145.950
       },
       {
         "mode": "linear",
-        "lower_mhz": 432.125,
-        "upper_mhz": 432.175
+        "lowerMHz": 432.125,
+        "upperMHz": 432.175
       }
     ]
   },
@@ -35,15 +35,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.795,
-        "upper_mhz": 436.795
+        "lowerMHz": 436.795,
+        "upperMHz": 436.795
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.850,
-        "upper_mhz": 145.850
+        "lowerMHz": 145.850,
+        "upperMHz": 145.850
       }
     ]
   },
@@ -54,15 +54,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.950,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.950,
+        "upperMHz": 145.970
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.130,
-        "upper_mhz": 435.150
+        "lowerMHz": 435.130,
+        "upperMHz": 435.150
       }
     ]
   },
@@ -73,15 +73,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.960,
-        "upper_mhz": 145.960
+        "lowerMHz": 145.960,
+        "upperMHz": 145.960
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 435.250,
-        "upper_mhz": 435.250
+        "lowerMHz": 435.250,
+        "upperMHz": 435.250
       }
     ]
   },
@@ -92,15 +92,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.880,
-        "upper_mhz": 145.880
+        "lowerMHz": 145.880,
+        "upperMHz": 145.880
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 435.350,
-        "upper_mhz": 435.350
+        "lowerMHz": 435.350,
+        "upperMHz": 435.350
       }
     ]
   },
@@ -111,15 +111,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.980,
-        "upper_mhz": 145.980
+        "lowerMHz": 145.980,
+        "upperMHz": 145.980
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 437.000,
-        "upper_mhz": 437.000
+        "lowerMHz": 437.000,
+        "upperMHz": 437.000
       }
     ]
   },
@@ -130,15 +130,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.860,
-        "upper_mhz": 145.880
+        "lowerMHz": 145.860,
+        "upperMHz": 145.880
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.210,
-        "upper_mhz": 435.230
+        "lowerMHz": 435.210,
+        "upperMHz": 435.230
       }
     ]
   },
@@ -149,15 +149,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.915,
-        "upper_mhz": 145.935
+        "lowerMHz": 145.915,
+        "upperMHz": 145.935
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.270,
-        "upper_mhz": 435.290
+        "lowerMHz": 435.270,
+        "upperMHz": 435.290
       }
     ]
   },
@@ -168,15 +168,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.800,
-        "upper_mhz": 435.900
+        "lowerMHz": 435.800,
+        "upperMHz": 435.900
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.900,
-        "upper_mhz": 146.000
+        "lowerMHz": 145.900,
+        "upperMHz": 146.000
       }
     ]
   },
@@ -187,15 +187,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.880,
-        "upper_mhz": 435.910
+        "lowerMHz": 435.880,
+        "upperMHz": 435.910
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.900,
-        "upper_mhz": 145.930
+        "lowerMHz": 145.900,
+        "upperMHz": 145.930
       }
     ]
   },
@@ -206,15 +206,15 @@
     "downlinks": [
       {
         "mode": "digital",
-        "lower_mhz": 435.310,
-        "upper_mhz": 435.310
+        "lowerMHz": 435.310,
+        "upperMHz": 435.310
       }
     ],
     "uplinks": [
       {
         "mode": "digital",
-        "lower_mhz": 435.310,
-        "upper_mhz": 435.310
+        "lowerMHz": 435.310,
+        "upperMHz": 435.310
       }
     ]
   },
@@ -225,15 +225,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 437.800,
-        "upper_mhz": 437.800
+        "lowerMHz": 437.800,
+        "upperMHz": 437.800
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.990,
-        "upper_mhz": 145.990
+        "lowerMHz": 145.990,
+        "upperMHz": 145.990
       }
     ]
   },
@@ -244,15 +244,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.855,
-        "upper_mhz": 145.875
+        "lowerMHz": 145.855,
+        "upperMHz": 145.875
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.100,
-        "upper_mhz": 435.120
+        "lowerMHz": 435.100,
+        "upperMHz": 435.120
       }
     ]
   },
@@ -263,15 +263,15 @@
     "downlinks": [
       {
         "mode": "digital",
-        "lower_mhz": 435.190,
-        "upper_mhz": 435.190
+        "lowerMHz": 435.190,
+        "upperMHz": 435.190
       }
     ],
     "uplinks": [
       {
         "mode": "digital",
-        "lower_mhz": 435.310,
-        "upper_mhz": 435.310
+        "lowerMHz": 435.310,
+        "upperMHz": 435.310
       }
     ]
   },
@@ -282,15 +282,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 437.200,
-        "upper_mhz": 437.200
+        "lowerMHz": 437.200,
+        "upperMHz": 437.200
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 144.350,
-        "upper_mhz": 144.350
+        "lowerMHz": 144.350,
+        "upperMHz": 144.350
       }
     ]
   },
@@ -301,15 +301,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.900,
-        "upper_mhz": 145.900
+        "lowerMHz": 145.900,
+        "upperMHz": 145.900
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 437.500,
-        "upper_mhz": 437.500
+        "lowerMHz": 437.500,
+        "upperMHz": 437.500
       }
     ]
   },
@@ -320,15 +320,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.610,
-        "upper_mhz": 435.670
+        "lowerMHz": 435.610,
+        "upperMHz": 435.670
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.935,
-        "upper_mhz": 145.995
+        "lowerMHz": 145.935,
+        "upperMHz": 145.995
       }
     ]
   },
@@ -339,15 +339,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.795,
-        "upper_mhz": 436.795
+        "lowerMHz": 436.795,
+        "upperMHz": 436.795
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.850,
-        "upper_mhz": 145.850
+        "lowerMHz": 145.850,
+        "upperMHz": 145.850
       }
     ]
   },
@@ -358,15 +358,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.663,
-        "upper_mhz": 436.663
+        "lowerMHz": 436.663,
+        "upperMHz": 436.663
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.875,
-        "upper_mhz": 145.875
+        "lowerMHz": 145.875,
+        "upperMHz": 145.875
       }
     ]
   },
@@ -377,15 +377,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.915,
-        "upper_mhz": 145.935
+        "lowerMHz": 145.915,
+        "upperMHz": 145.935
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.270,
-        "upper_mhz": 435.290
+        "lowerMHz": 435.270,
+        "upperMHz": 435.290
       }
     ]
   },
@@ -396,15 +396,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.665,
-        "upper_mhz": 145.685
+        "lowerMHz": 145.665,
+        "upperMHz": 145.685
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.030,
-        "upper_mhz": 435.050
+        "lowerMHz": 435.030,
+        "upperMHz": 435.050
       }
     ]
   },
@@ -415,15 +415,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.975,
-        "upper_mhz": 145.815
+        "lowerMHz": 145.975,
+        "upperMHz": 145.815
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.150,
-        "upper_mhz": 435.170
+        "lowerMHz": 435.150,
+        "upperMHz": 435.170
       }
     ]
   },
@@ -434,15 +434,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.960,
-        "upper_mhz": 145.990
+        "lowerMHz": 145.960,
+        "upperMHz": 145.990
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.015,
-        "upper_mhz": 435.045
+        "lowerMHz": 435.015,
+        "upperMHz": 435.045
       }
     ]
   },
@@ -453,15 +453,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.165,
-        "upper_mhz": 435.195
+        "lowerMHz": 435.165,
+        "upperMHz": 435.195
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.855,
-        "upper_mhz": 145.885
+        "lowerMHz": 145.855,
+        "upperMHz": 145.885
       }
     ]
   },
@@ -472,15 +472,15 @@
     "downlinks": [
       {
         "mode": "linear",
-        "lower_mhz": 435.165,
-        "upper_mhz": 435.195
+        "lowerMHz": 435.165,
+        "upperMHz": 435.195
       }
     ],
     "uplinks": [
       {
         "mode": "linear",
-        "lower_mhz": 145.855,
-        "upper_mhz": 145.885
+        "lowerMHz": 145.855,
+        "upperMHz": 145.885
       }
     ]
   },
@@ -491,15 +491,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.400,
-        "upper_mhz": 436.400
+        "lowerMHz": 436.400,
+        "upperMHz": 436.400
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.970,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.970,
+        "upperMHz": 145.970
       }
     ]
   },
@@ -510,15 +510,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.400,
-        "upper_mhz": 436.400
+        "lowerMHz": 436.400,
+        "upperMHz": 436.400
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.970,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.970,
+        "upperMHz": 145.970
       }
     ]
   },
@@ -529,15 +529,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.400,
-        "upper_mhz": 436.400
+        "lowerMHz": 436.400,
+        "upperMHz": 436.400
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.970,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.970,
+        "upperMHz": 145.970
       }
     ]
   },
@@ -548,15 +548,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.400,
-        "upper_mhz": 436.400
+        "lowerMHz": 436.400,
+        "upperMHz": 436.400
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.970,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.970,
+        "upperMHz": 145.970
       }
     ]
   },
@@ -567,15 +567,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.400,
-        "upper_mhz": 436.400
+        "lowerMHz": 436.400,
+        "upperMHz": 436.400
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.970,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.970,
+        "upperMHz": 145.970
       }
     ]
   },
@@ -586,15 +586,15 @@
     "downlinks": [
       {
         "mode": "fm",
-        "lower_mhz": 436.400,
-        "upper_mhz": 436.400
+        "lowerMHz": 436.400,
+        "upperMHz": 436.400
       }
     ],
     "uplinks": [
       {
         "mode": "fm",
-        "lower_mhz": 145.970,
-        "upper_mhz": 145.970
+        "lowerMHz": 145.970,
+        "upperMHz": 145.970
       }
     ]
   }

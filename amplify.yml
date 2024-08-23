@@ -1,0 +1,31 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - mkdir -p ./local
+        - wget -q https://go.dev/dl/go${VERSION_GO}.linux-amd64.tar.gz
+        - rm -rf ./local/go
+        - tar --overwrite -xzf go${VERSION_GO}.linux-amd64.tar.gz
+        - mv go ./local/go
+        - rm -rf go${VERSION_GO}.linux-amd64.tar.gz
+        - wget -q https://github.com/gohugoio/hugo/releases/download/v${VERSION_HUGO}/hugo_extended_${VERSION_HUGO}_Linux-64bit.tar.gz
+        - tar --overwrite -xf hugo_extended_${VERSION_HUGO}_Linux-64bit.tar.gz hugo
+        - mv hugo ./local/hugo
+        - rm -rf hugo_extended_${VERSION_HUGO}_Linux-64bit.tar.gz
+        - ./local/hugo version
+        - npm install --save-dev autoprefixer postcss-cli postcss
+    # IMPORTANT - Please verify your build commands
+    build:
+      commands:
+        - pwd
+        - export PATH=$PATH:./local/go/bin
+        - go version
+        - ./local/hugo
+  artifacts:
+    # IMPORTANT - Please verify your build output directory
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []

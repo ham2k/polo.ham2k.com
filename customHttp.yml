@@ -1,0 +1,11 @@
+customHeaders:
+  - pattern: "**/*.txt"
+    headers:
+    - key: "Content-Type"
+      value: "text/plain; charset=utf-8"
+    - key: "X-Ham2K"
+      value: "PoLo!"
+  - pattern: "*.json"
+    headers:
+    - key: "Content-Type"
+      value: "application/json"

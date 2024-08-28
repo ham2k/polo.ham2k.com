@@ -597,5 +597,34 @@
         "upperMHz": 145.970
       }
     ]
+  },
+    {
+    "name": "QO-100",
+    "number": 43700,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 10489.500,
+        "upperMHz": 10489.800
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 10491.000,
+        "upperMHz": 10499.800
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 2400.050,
+        "upperMHz": 2400.300
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 2401.500,
+        "upperMHz": 2409.500
+      }
+    ]
   }
 ]

@@ -13,6 +13,8 @@ When you are in the callsign input field, you can use the following shortcuts, a
 
 * Enter a frequency to change the current frequency (and band). For example `14.070` or `14070`.
 
+* Enter a power level to change the current power level. For example `5W` or `100W`.
+
 * Enter a new decimal frequency to change just part of the current frequency. For example, if you are on `14.245` and you type `.247`, the frequency will change to `14.247`.
 
 * Enter a time or date to change the QSO time. For example `14:30` or `14:30:25` for time, or `05-09` for May 9th.

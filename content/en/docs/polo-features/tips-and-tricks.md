@@ -19,6 +19,10 @@ When you are in the callsign input field, you can use the following shortcuts, a
 
 * Enter a time difference to change the QSO time. For example, if you are logging a QSO at `14:30` and you type `+15m`, the time will change to `14:45`. If you type `-1h`, the time will change to `13:30`. You can use `h` for hours, `m` for minutes, and `s` for seconds, as well as `d` for days and `w` for weeks.
 
+* Enter `SPOTME` or `SPME` to self-spot with current frequency and mode. You can add a short comment after a `/`, such as `SPME/QRV`.
+
+* Change operators with `OPER/` or `OP/` followed by the new operator's callsign.
+
 * Enter `KONAMI` to enable or disable [Developer Mode](../developer-mode/).
 
 
@@ -56,4 +60,4 @@ Most phone and tablet keyboards make it hard to enter a slash (`/`) character, w
 
 ## Bearing and distance
 
-Entering your qrz.com credentials in Settings > Accounts > QRZ will enable PoLo to provide details of contacts you make. If you have a qrz.com subscription it will also provide bearing and distance information to your contact. 
+Entering your qrz.com credentials in Settings > Accounts > QRZ will enable PoLo to provide details of contacts you make. If you have a qrz.com subscription it will also provide bearing and distance information to your contact.

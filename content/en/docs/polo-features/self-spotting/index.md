@@ -13,4 +13,6 @@ Re-spotting is done in the same way, with QSY or QRT entered into the Comments w
 
 You can also self-spot by using the `SPOTME` or just `SPME` commands in the callsign entry field. You can add a short comment after a `/`, such as `SPME/QRV`.
 
+And for the most common uses, you can just use the even shorter commands `QRV`, `QSY` and `QRT` to self-spot with the respective comment.
+
 PoLo currently supports receiving spots for POTA, SOTA and WWFF, clicking any spot within the list on the spots tab will put all of that contact's details into a new slot on the QSO tab enabling quick and easy contact to be made.

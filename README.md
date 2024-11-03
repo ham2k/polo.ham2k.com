@@ -5,11 +5,11 @@ This is the source code for the Ham2K Portable Logger Documentation. You can vis
 
 # Contributing to these docs
 
-This site is built using [Hugo][] and the [Docsy][] theme, and hosted on [Netlify][].
+This site is built using [Hugo](https://gohugo.io/) and the [Docsy](https://github.com/google/docsy) theme, and hosted on AWS Amplify.
 
 You can contribute to the documentation by submitting a pull request to this repository.
 
-For Docsy documentation, see [Docsy user guide][].
+For Docsy documentation, see [Docsy user guide](https://docsy.dev/docs).
 
 If you want to do SCSS edits and want to publish these, you need to install `PostCSS`
 
@@ -26,7 +26,7 @@ You can find out more about how to install Hugo for your environment in our
 Once you've made your working copy of the site repo, from the repo root folder, run:
 
 ```bash
-hugo server
+npm run serve
 ```
 
 ## Troubleshooting
@@ -69,9 +69,3 @@ Error: failed to download modules: binary with name "go" not found
 
 This error occurs if you have not installed the `go` programming language on your system.
 See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/installation-prerequisites/#install-go-language) of the user guide for instructions on how to install `go`.
-
-
-[Hugo]: https://gohugo.io/
-[Docsy user guide]: https://docsy.dev/docs
-[Docsy]: https://github.com/google/docsy
-[Netlify]: https://netlify.com

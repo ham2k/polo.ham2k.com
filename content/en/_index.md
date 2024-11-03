@@ -11,7 +11,11 @@ title: PoLo Portable Logger
 <br />
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Read the Fine Manual <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Read the Fine Manual <i class="fas fa-book-open ms-2"></i>
+</a>
+<br />
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://forums.ham2k.com/">
+  Visit the Forums <i class="fas fa-comments ms-2"></i>
 </a>
 
 <p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>

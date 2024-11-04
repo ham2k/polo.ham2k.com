@@ -13,6 +13,7 @@ PoLo offers several sources for data both offline and online.
 * use **only the free account provisions**. In addition to this source, there is the
 * [**Callsign Notes**](https://polo.ham2k.com/docs/polo-features/callsign-notes/) feature which is data downloaded and avilable offline,
 * and also history from both the **Operations** present on the device and any historical **ADIF data** you have chosen to import.
+* HamDB lookups (free, but US, Canada and Germany only)
 
 ### QRZ Lookups
 QRZ XML data Lookups are available for both free accounts and paid subscription. The data offered by QRZ retrieved during the query to QRZ is, however, different in each case. According to QRZ policy, free accounts provide for 100 lookups per day after which no data will be returned. Additionally, the data provided for free accounts is a subset of the data returned for paid account queries. Your QRZ account details on the qrz.com website will show your Callsign Lookup Activity as total web lookups today, total XML lookups today and your daily maximum limit is also shown. The lowest QRZ subscription level of "XML Data" will provide unlimited XML data lookups.

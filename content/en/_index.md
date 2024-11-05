@@ -4,6 +4,9 @@ title: PoLo Portable Logger
 
 {{< blocks/cover image_anchor="top" height="full" >}}
 <h1><light>Ham2K</light><br />Portable Logger</h1>
+
+<p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>
+
 <div>
   <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='240' /></a>   <a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
 </div>
@@ -18,7 +21,6 @@ title: PoLo Portable Logger
   Visit the Forums <i class="fas fa-comments ms-2"></i>
 </a>
 
-<p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
@@ -35,9 +37,9 @@ Field Day, Winter Field Day, and many more.
 
 {{% blocks/section color="dark" type="row" %}}
 
-{{% blocks/feature icon="fab fa-discord" title="Join our Community!" %}}
+{{% blocks/feature icon="fas fa-comments" title="Join our Community!" %}}
 
-Our [Discord Server](https://discord.gg/c4Th9QkByJ) is where you can chat with the developers and other users, report issues, get help, and more.
+Our [Forums](https://forums.ham2k.com/) is where you can report issues, get help, suggest ideas and more, and our [Discord Server](https://discord.gg/c4Th9QkByJ) is where you can chat with the developers and other users.
 
 {{% /blocks/feature %}}
 
@@ -45,7 +47,9 @@ Our [Discord Server](https://discord.gg/c4Th9QkByJ) is where you can chat with t
 
 {{% blocks/feature icon="fab fa-github" title="PoLo is Open Source!" %}}
 
-Check the [source code](https://github.com/ham2k/app-polo) on **GitHub**. New contributors are always welcome!
+Check the [source code](https://github.com/ham2k/app-polo) on **GitHub**.
+
+New contributors are always welcome!
 
 {{% /blocks/feature %}}
 

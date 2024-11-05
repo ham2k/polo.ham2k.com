@@ -173,15 +173,20 @@ enable = false
 
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-  name = "Mailing List"
-  url = "https://groups.google.com/g/ham2k-polo"
-  icon = "fa fa-envelope"
+  name = "Forums"
+  url = "https://forums.ham2k.com/"
+  icon = "fa fa-comments"
   desc = "Discussion and help from your fellow users"
 [[params.links.user]]
   name ="Discord"
   url = "https://discord.gg/c4Th9QkByJ"
   icon = "fab fa-discord"
   desc = "Join our Discord server!"
+[[params.links.user]]
+  name ="Instagram"
+  url = "https://instagram.com/ham2kapps"
+  icon = "fab fa-instagram"
+  desc = "Follow us on Instagram!"
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]

@@ -192,6 +192,11 @@ enable = false
   url = "https://bsky.app/profile/ham2k.com"
   icon = "fab fa-bluesky"
   desc = "Follow us on Bluesky!"
+[[params.links.user]]
+  name ="YouTube"
+  url = "https://www.youtube.com/@ham2kapps"
+  icon = "fab fa-youtube"
+  desc = "Follow us on YouTube!"
 
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.

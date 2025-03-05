@@ -200,6 +200,25 @@
     ]
   },
   {
+    "name": "IO-86",
+    "number": 40931,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.825,
+        "upperMHz": 435.880
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.825,
+        "upperMHz": 145.880
+      }
+    ]
+  },
+  {
     "name": "IO-117",
     "number": 53106,
     "modulation": "digital",
@@ -371,6 +390,25 @@
     ]
   },
   {
+    "name": "SO-124",
+    "number": 62690,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.888,
+        "upperMHz": 436.888
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.925,
+        "upperMHz": 145.925
+      }
+    ]
+  }
+  {
     "name": "TO-108",
     "number": 44909,
     "modulation": "linear",
@@ -408,6 +446,25 @@
       }
     ]
   },
+  {
+    "name": "XW-2B",
+    "number": 40911,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.730,
+        "upperMHz": 145.750
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.090,
+        "upperMHz": 435.110
+      }
+    ]
+  },  
   {
     "name": "XW-2C",
     "number": 40906,
@@ -484,6 +541,25 @@
       }
     ]
   },
+  {
+    "name": "MO-122",
+    "number": 60209,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.810,
+        "upperMHz": 435.840
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.940,
+        "upperMHz": 145.940
+      }
+    ]
+  },  
   {
     "name": "Tevel-2",
     "number": 51069,

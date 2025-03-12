@@ -29,6 +29,7 @@ When you are in the callsign input field, you can use the following shortcuts, a
 
 
 ## Smart Data Entry
+Call stacking can be donw by using `//` or `..`
 
 In most activation reference fields (POTA, SOTA, etc) you only need to enter letters and number, and PoLo will automatically fill in any dashes and slashes. And in many cases you can skip the prefix too and PoLo will guess it from the callsign.
 

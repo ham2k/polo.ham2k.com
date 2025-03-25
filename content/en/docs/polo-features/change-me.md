@@ -31,9 +31,9 @@ The other operator may be at their home location, or in a park/summit etc. For o
 The primary source of lookup data at this time is QRZ and/or if active, HamDB lookups (free, but US, Canada and Germany only).
 As stated elsewhere in this documentation, the details of live data from QRZ is subject to your subscription level. A paid subscription will return the other operator's gridsquare. Using a free subscription will **not** return this data. 
 
-In the case of a missing gridsquare e.g. using a free subscription and a chaser at their home QTH, their location will be based on the ability of PoLo to interpret the callsign location. The locaiton may be the centre of the operator's country only, or in some cases a state of the operator's country.
+In the case of a missing gridsquare e.g. using a free subscription and a chaser at their home QTH, their location will be based on the ability of PoLo to interpret the callsign location. The location may be the centre of the operator's country only, or in some cases a state of the operator's country.
 
-**Why do all the lines on my map go to one place, in the centre of the country?** The most likely reason is becuase you are limited to a free QRZ subscription and operator gridsquares are not available. Country centroids may be used in this case.
+**Why do all the lines on my map go to one place, in the centre of the country?** The most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Country centroids may be used in this case.
 
 ### Offline/Historical Data
 The secondary source of lookup data for your QSOs is historical data. You may, if you wish import an ADIF file of previous QSOs (your amateur radio log file). If this data is available, it will be used where other sources of data are not available.

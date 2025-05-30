@@ -61,11 +61,11 @@ Everyone will have their favourite way to handle a pileup. For those who like th
 
 In the "Their Call" entry field, enter each fragment that is heard separated by double slashes
 
-![image](https://github.com/user-attachments/assets/068b164a-89a4-49a8-81f1-7d9844a6403e)
+![image](./stacking-1.png)
 
 Then work backwards through the stack, correcting each call until confirmed. Once confirmed, send the corrected call to you log.
 
-![image](https://github.com/user-attachments/assets/36e1a06f-34ef-4ba8-bfd0-dec41fee483b)
+![image](./stacking-2.png)
 
 Sending a complete call will remove it from the stack and leave the stack ready for correcting the next partial/fragment.
 

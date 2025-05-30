@@ -1,6 +1,6 @@
 ---
 title: "Callsign Expansion"
-linkTitle: "csexpansion"
+linkTitle: "Callsign Expansion"
 weight: 100
 description: >-
      Using Callsign Notes file for multi-callsign expansion
@@ -27,10 +27,10 @@ When an entry is made with 2 leading dots (or slashes) and the note file entry i
 ```
 So by entering ..1RF or //1RF the prompt becomes:
 
-![image](https://github.com/user-attachments/assets/f7cd2135-b503-47e7-9262-5f54a0de890a)
+![image](./expansion-1.png)
 
 The first tap of the send button will drop the expanded list into "Their Call" where you may edit, add or remove a callsign to confirm.
 The second tap of the send button will submit the list of callsigns into you operation as separate QSOs.
 
-![image](https://github.com/user-attachments/assets/e6924642-ed85-4c69-a002-65f3278d9239)
+![image](./expansion-2.png)
 

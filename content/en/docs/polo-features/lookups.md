@@ -21,15 +21,15 @@ QRZ XML data Lookups are available for both free accounts and paid subscription.
 ### QRZ Authentication
 Please remember that logging into QRZ vai the API requires that you use your callsign, **NOT** your email address. You can use either email address or callsign when logging on to your QRZ account, but only your callsign for the api which is required for lookups.
 
-Addtionally, the api login is done via plain text and therefore requires a password which does **NOT contain any special characters**. You may need to reset your password if it contains special characters.
+Addtionally, the QRZ API is known to have problems with passwords with some special characters that might work fine when logging thru the web. If you're having problems using your credentials in PoLo, please consider changing your password to use only letters, numbers and common symbols.
 
 Use the account **Check Credentials** link to ensure you have the password correct
 
-![image](https://github.com/user-attachments/assets/7b6d508f-804b-4edc-b9f0-1309028b458f)
+![image](./checkcreds-1.png)
 
 If a login is successful, this link test will change to a tick
 
-![image](https://github.com/user-attachments/assets/6e075459-8028-4806-86cc-721c1f1396f4)
+![image](./checkcreds-2.png)
 
 ### Operation Data
 Previous Operations may be left on your device and serve as data lookups in the event that no cell coverage is available and no ADIF data has been uploaded to the device. [**Callsign Notes**](https://polo.ham2k.com/docs/polo-features/callsign-notes/), if enabled, will always be presented on the callsign entry form when a callsign match is found.

@@ -18,6 +18,19 @@ PoLo offers several sources for data both offline and online.
 ### QRZ Lookups
 QRZ XML data Lookups are available for both free accounts and paid subscription. The data offered by QRZ retrieved during the query to QRZ is, however, different in each case. According to QRZ policy, free accounts provide for 100 lookups per day after which no data will be returned. Additionally, the data provided for free accounts is a subset of the data returned for paid account queries. Your QRZ account details on the qrz.com website will show your Callsign Lookup Activity as total web lookups today, total XML lookups today and your daily maximum limit is also shown. The lowest QRZ subscription level of "XML Data" will provide unlimited XML data lookups.
 
+### QRZ Authentication
+Please remember that logging into QRZ via the API requires that you use your callsign, **NOT** your email address. You can use either email address or callsign when logging on to your QRZ account, but only your callsign for the api which is required for lookups.
+
+Addtionally, the QRZ API is known to have problems with passwords with some special characters that might work fine when logging thru the web. If you're having problems using your credentials in PoLo, please consider changing your password to use only letters, numbers and common symbols.
+
+Use the account **Check Credentials** link to ensure you have the password correct
+
+![image](./checkcreds-1.png)
+
+If a login is successful, this link test will change to a tick
+
+![image](./checkcreds-2.png)
+
 ### Operation Data
 Previous Operations may be left on your device and serve as data lookups in the event that no cell coverage is available and no ADIF data has been uploaded to the device. [**Callsign Notes**](https://polo.ham2k.com/docs/polo-features/callsign-notes/), if enabled, will always be presented on the callsign entry form when a callsign match is found.
 

@@ -55,6 +55,21 @@ when  you log a POTA Park-to-park contact with multiple operators on the other e
 
 This also works when editing existing QSOs if you want to duplicate the information for another operator.
 
+## Callsign Stacking
+
+Everyone will have their favourite way to handle a pileup. For those who like the callsign fragment method i.e. one where you might scribble down callsign fragments and then back track to each fragment in the list one at a time, then Callsign Stacking may be of interest.
+
+In the "Their Call" entry field, enter each fragment that is heard separated by double slashes
+
+![image](https://github.com/user-attachments/assets/068b164a-89a4-49a8-81f1-7d9844a6403e)
+
+Then work backwards through the stack, correcting each call until confirmed. Once confirmed, send the corrected call to you log.
+
+![image](https://github.com/user-attachments/assets/36e1a06f-34ef-4ba8-bfd0-dec41fee483b)
+
+Sending a complete call will remove it from the stack and leave the stack ready for correcting the next partial/fragment.
+
+Continue until all fragments are corrected and submittted.
 
 ## Smart Slash
 

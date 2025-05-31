@@ -13,5 +13,5 @@ description: What does PoLo need to be online for?
 
 <p>Each of these data sets can be refreshed manually by selecting them in the Data Settings area, and tapping Refresh on the pop-up.</p>
 
-<img src="refresh.png" width='75%' />
+![image](./refresh-1.png)
 

@@ -33,4 +33,4 @@ When you finish the operation, it's time to export the logs. This time, however,
 ![image](https://github.com/user-attachments/assets/a86aa464-629e-4948-8bd3-1defe7527b42)
 
 ### Future Template
-Once this operation is present on your device, the setup will be offered as a Template. So for future operations with the same buddy, you can just choose the template to get the **Station & Operator** settings.
+Once this operaiton is present on your device, the setup will be offered as a Template. So for future operations with the same buddy, you can just choose the template to get the **Station & Operator** settings.

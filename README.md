@@ -2,7 +2,6 @@
 
 This is the source code for the Ham2K Portable Logger Documentation. You can visit the site at [https://polo.ham2k.com](https://polo.ham2k.com).
 
-
 # Contributing to these docs
 
 This site is built using [Hugo](https://gohugo.io/) and the [Docsy](https://github.com/google/docsy) theme, and hosted on AWS Amplify.

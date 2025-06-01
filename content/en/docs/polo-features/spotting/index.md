@@ -19,7 +19,7 @@ And for the most common uses, you can just use the even shorter commands `QRV`, 
 
 PoLo currently supports receiving spots for POTA, SOTA and WWFF, clicking any spot within the list on the spots tab will put all of that contact's details into a new slot on the QSO tab enabling quick and easy contact to be made.
 
-### Spotting another Operator (coming in June 2025)
+### Spotting another Operator (coming in June 2025 for beta first)
 
 You may often work another portable operator who may not have coverage to spot themselves. PoLo provides two ways to spot other operators. You can either spot them during or after you take their details, or just take their details, spot them and discard the settings.
 

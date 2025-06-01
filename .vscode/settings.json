@@ -3,5 +3,6 @@
     "Docsy",
     "Ham2K",
     "PoLo"
-  ]
+  ],
+  "editor.fontFamily": "Lucida Sans Typewriter"
 }

@@ -10,7 +10,7 @@ You can contribute to the documentation by submitting a pull request to this rep
 
 For Docsy documentation, see [Docsy user guide](https://docsy.dev/docs).
 
-If you want to do SCSS edits and want to publish these, you need to install `PostCSS`
+If you want to do SCSS edits and want to publish these, you need to install `PostCSS`.
 
 ```bash
 npm install

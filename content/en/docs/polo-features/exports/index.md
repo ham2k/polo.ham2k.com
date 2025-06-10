@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Log Exports & Privacy
 weight: 2
 description: >
   PoLo supports efforts to maintain the privacy of your personal data.
@@ -24,9 +24,9 @@ For this reason, PoLo provides specific exports designed for the upload to QSL s
 
 <img src="./exportoptions.png" class='h2k-device-screen h2k-float-right' />
 
-## Operation versus Full exports
+## Activities versus Full exports
 
-The example shown here of export options for an operation of a WWFF park amd a 2-fer POTA park activation shows that several export logs can be generated. Each log is specific for its intended upload QSL service. Two POTA logs for the two parks, one WWFF log for the paired WWFF park. And during the operation, a SOTA summit was contacted so a log is generated just for those contacts.
+The example shown here of export options for an operation of a WWFF park and a 2-fer POTA park activation shows that several export logs can be generated. Each log is specific for its intended upload QSL service. Two POTA logs for the two parks, one WWFF log for the paired WWFF park. And during the operation, a SOTA summit was contacted so a log is generated just for those contacts.
 
 Each of the specific logs contain the minimum data required for the associated QSL service. No personal data is included by default.
 
@@ -42,4 +42,4 @@ If you must, there is an override to this default behaviour.
 
 In General Settings|Export Settings, it is possible to enable the "Include Private Data" option. This option will cause the chosen export file to include the personal data of each QSO operator.
 
-Please use this option with caution. Peronal lookup data is, of course, subject to the lookup options you have enabled and subscribed to eslewhere in PoLo and also to the data you manually enter into the "More" tab of the QSOs in question. Remember that once you pass on someone's personal data, you and they no longer have control over who else can obtain it. Habits which protect other people's data will also therefore, protect your own.
+Please use this option with caution. Peronal lookup data is, of course, subject to the lookup options you have enabled and subscribed to elsewhere in PoLo and also to the data you manually enter into the "More" tab of the QSOs in question. Remember that once you pass on someone's personal data, you and they no longer have control over who else can obtain it. Habits which protect other people's data will also therefore, protect your own.

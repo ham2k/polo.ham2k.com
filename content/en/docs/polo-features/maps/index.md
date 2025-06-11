@@ -19,7 +19,9 @@ To provide the origin of the map, you must supply **your** location for each ope
 In cases where you have chosen to log general QSOs, you must remember to enter your location manually. If no location (gridsquare) is set for your operation then when viewing the map, you will be warned of the missing parameter and prompted to return and set it.
 
 <img src="./noqth.png" width="440">
-<hr>
+
+---
+
 **Why do I not see any lines on my QSO map?** Most likely because you do not have your own location set for the operation.
 
 ### The location of the other operator

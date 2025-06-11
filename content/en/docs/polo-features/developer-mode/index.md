@@ -15,6 +15,8 @@ You can use this same procedure to toggle it off.
 
 You will now find new features and options in the app, usually highlighted in an orange color.
 
+## Developer Mode Features
+
 ### Unstable Versions
 
 In the Deverloper Settings you can now select between three different "update channels":

@@ -2,7 +2,6 @@
 title: Operations/QSO List Panel
 weight: 50
 description: How PoLo is operated.
-
 ---
 In the full version of PoLo, the top of the panel is demarcated by 4 tabs - QSOs, SPOTS, MAP and OPERATION
 

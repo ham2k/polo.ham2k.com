@@ -1,6 +1,6 @@
 ---
 title: "Callsign Notes"
-weight: 3
+weight: 140
 description: Custom notes for callsigns that are shown while logging
 ---
 

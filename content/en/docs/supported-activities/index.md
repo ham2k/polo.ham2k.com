@@ -1,7 +1,7 @@
 ---
 title: Supported Activities
 description: Types of "On The Air" supported
-weight: 3
+weight: 40
 ---
 
 PoLo is currently supports the following "On The Air" types of operations. More will be added over time and if you have a request please ask on the Discord Server.

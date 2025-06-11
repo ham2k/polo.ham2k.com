@@ -1,7 +1,7 @@
 ---
 title: Community
 description: Where to find your fellow users.
-weight: 98
+weight: 300
 ---
 
 ## Forums

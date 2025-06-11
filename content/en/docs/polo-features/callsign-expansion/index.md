@@ -1,7 +1,7 @@
 ---
 title: "Callsign Expansion"
 linkTitle: "Callsign Expansion"
-weight: 100
+weight: 130
 description: >-
      Using Callsign Notes file for multi-callsign expansion
 ---

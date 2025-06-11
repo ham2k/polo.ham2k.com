@@ -1,6 +1,6 @@
 ---
 title: Contribution Guidelines
-weight: 100
+weight: 310
 description: How to contribute to the docs
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Band and Modes
-weight: 3
+weight: 60
 description: Understanding how to select bands and modes for operations.
 
 ---

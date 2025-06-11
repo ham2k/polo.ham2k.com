@@ -1,6 +1,6 @@
 ---
 title: Online and Offline
-weight: 6
+weight: 70
 description: What does PoLo need to be online for?
 
 ---

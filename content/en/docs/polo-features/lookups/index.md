@@ -1,6 +1,6 @@
 ---
 title: "Data Lookups"
-weight: 100
+weight: 80
 description: >-
      Sources of lookup data used by the application during QSO recording.
 ---

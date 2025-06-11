@@ -1,24 +1,22 @@
 ---
 title: Installing PoLo
 description: How to install PoLo on your device.
-weight: 1
+weight: 10
 ---
 
 PoLo is currently available for Android and iOS devices. You can install it from the Google Play Store or Apple TestFlight.
 
 ## Android
 
-PoLo is available on the Google Play Store. You can install it by clicking the badge below:
+PoLo is available in the Google Play Store. You can install it by clicking the badge below:
 
 <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='/google-play-badge.png' alt='Google Play Store' width='240' /></a>
 
 ## Apple iOS
 
-PoLo is not yet on the iOS AppStore, but it is available through Apple's TestFlight. You can install it by clicking the badge below:
+PoLo is available in the iOS AppStore. You can install it by clicking the badge below:
 
 <a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='/apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
-
-You will have to first install TestFlight, and then click the badge again, or use code `TjRq5t5Y` in the TestFlight app.
 
 ## Windows
 

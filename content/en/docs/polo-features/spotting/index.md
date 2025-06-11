@@ -1,6 +1,6 @@
 ---
 title: Spotting
-weight: 2
+weight: 90
 description: >
   Spotting yourself or someone else for activities that support it, like POTA, WWFF and GMA.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Log Exports & Privacy
-weight: 2
+weight: 190
 description: >
   PoLo supports efforts to maintain the privacy of your personal data.
 ---

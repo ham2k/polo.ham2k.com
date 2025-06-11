@@ -1,6 +1,6 @@
 ---
 title: Emojis
-weight: 6
+weight: 150
 description: What do the emojis in the log mean?
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Satellite Operations
-weight: 2
+weight: 120
 description: >
   PoLo offers specific fields for recording QSOs via Orbiting Satellite Carrying Amateur Radio (OSCAR) satellites.
 ---

@@ -1,8 +1,7 @@
 ---
 title: Spotting
 weight: 90
-description: >
-  Spotting yourself or someone else for activities that support it, like POTA, WWFF and GMA.
+description: Spotting yourself or someone else for activities that support it, like POTA, WWFF and GMA.
 ---
 
 <img src="self-spotting1.gif" width='40%' class='h2k-device-screen h2k-float-right' />

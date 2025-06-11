@@ -2,11 +2,7 @@
 title: Operations Summary Panel
 weight: 48
 description: Your list of Operations.
-
 ---
-
-## Operations Summary
-
 PoLo opens on the Operations Summary page. A list of your operations are presented to you with your callsign, activity code/ID number, the name of the location, the number of QSOs in the activity so far and the date of the operation. The number of QSOs shown top right of the Operation band is the number of QSOs not including any QSOs marked as deleted.
 
 ![image](./operationslist.png)

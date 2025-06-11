@@ -3,7 +3,6 @@ title: Developer Mode
 description: Advanced features for developers and brave users.
 weight: 170
 ---
-
 {{% pageinfo %}}
 WARNING: Using Developer Mode features can increase the chances of crashes and data loss. Use with caution.
 {{% /pageinfo %}}

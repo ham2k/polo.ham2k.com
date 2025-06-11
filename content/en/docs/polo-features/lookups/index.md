@@ -1,12 +1,8 @@
 ---
 title: "Data Lookups"
 weight: 80
-description: >-
-     Sources of lookup data used by the application during QSO recording.
+description: Sources of lookup data used by the application during QSO recording.
 ---
-
-## Lookup Data Sources
-
 PoLo offers several sources for data both offline and online. 
 * **QRZ Lookup** is the primary source of online data and falls into two categories depending on whether you have
 * a **paid subscripion** to QRZ or

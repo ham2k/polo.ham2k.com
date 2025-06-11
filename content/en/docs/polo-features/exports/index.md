@@ -4,13 +4,11 @@ weight: 190
 description: >
   PoLo supports efforts to maintain the privacy of your personal data.
 ---
-
-
-## Privacy Regulations
+### Privacy Regulations
 
 Data privacy regulations are laws that govern how organizations collect, use, store, and share personal data. These regulations aim to protect individuals' rights and ensure that their personal information is handled responsibly and securely. Key regulations include the General Data Protection Regulation (GDPR) in the European Union, the California Consumer Privacy Act (CCPA) in the United States, and the Privacy Act 1988 in Australia. 
 
-## Data lookups and your rights
+### Data lookups and your rights
 
 Many of us provide personal data to places like QRZ to enhance our experience in Amateur Radio and inform our contact partners of our QTH location etc.
 
@@ -24,7 +22,7 @@ For this reason, PoLo provides specific exports designed for the upload to QSL s
 
 <img src="./exportoptions.png" class='h2k-device-screen h2k-float-right' />
 
-## Activities versus Full exports
+### Activities versus Full exports
 
 The example shown here of export options for an operation of a WWFF park and a 2-fer POTA park activation shows that several export logs can be generated. Each log is specific for its intended upload QSL service. Two POTA logs for the two parks, one WWFF log for the paired WWFF park. And during the operation, a SOTA summit was contacted so a log is generated just for those contacts.
 
@@ -34,7 +32,7 @@ Finally there is a Full ADIF Export which does contain all the data form the ope
 
 PoLo supports these measures and recommends that you use each export log for their intended purpose.
 
-## Overrides
+### Overrides
 
 If you must, there is an override to this default behaviour.
 

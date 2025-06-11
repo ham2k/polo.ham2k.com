@@ -80,3 +80,8 @@ as the organizers accept ADIF logs using the `SIG_INFO` fields. (see <a href='ht
 
 No spotting is available for Custom Activities.
 
+### Field Day Activities
+
+There is also a significant list of QSO party and Field Day operations templates
+
+![FieldDay Activities](./fielddayactivities.png)

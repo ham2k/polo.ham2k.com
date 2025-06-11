@@ -2,12 +2,8 @@
 title: "Mapping Requirements and FAQ"
 linkTitle: "Mapping"
 weight: 100
-description: >-
-     The basic requirements to take advantage of the QSO map for an operation
+description: The basic requirements to take advantage of the QSO map for an operation
 ---
-
-## Mapping - What you need and FAQ
-
 The QSO map is a very popular feature. There are some basic requirements to produce this map:
 
 * Your location,
@@ -24,6 +20,7 @@ In cases where you have chosen to log general QSOs, you must remember to enter y
 
 <img src="./noqth.png" width="440">
 
+---
 
 **Why do I not see any lines on my QSO map?** Most likely because you do not have your own location set for the operation.
 

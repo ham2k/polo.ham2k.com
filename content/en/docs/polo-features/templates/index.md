@@ -1,14 +1,11 @@
 ---
 title: Templates
 weight: 160
-description: >
-  Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents.
+description: Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents.
 ---
-
 <img src="./activities.png" class='h2k-device-screen h2k-float-right' />
 
-## Filenames
-
+### Filenames
 Each operation activity has a default filename convention which is based on tradition or specification from each activity. For example, WWFF log filenames are typically formatted as CALLSIGN@PARKID YYYYMMDD.ADI while POTA log filenames are formatted as CALLSIGN@PARKID-YYYYMMDD.adi.
 
 But these names can be modified to suit your own filing habits if needed. In reality, POTA filenames can be anything you like as long it contains legal filenaming characters. The log uploader will attempt to recognise the park name and location from the PARKID in the filename, if it's missing you will be prompted to supply it before processing can be done.
@@ -19,8 +16,7 @@ Under General Settings, you will find Export Settings.
 
 ![image](./filenamesamples.png)
 
-## Export Field Values
-
+### Export Field Values
 Most field values are set during a QSO and are required for QSL purposes, e.g. callsign, mode date/time etc.
 But some may be used for personal comments or notes and may also be used in personalising QSL information e.g. the ADIF QSLMSG field.
 

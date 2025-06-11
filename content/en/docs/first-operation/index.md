@@ -18,3 +18,5 @@ You can log a QSO by entering the callsign of the station you contacted, then pr
 
 Keep logging contacts, and once you're done go to the "Operation" tab and select "Export Log Files" to generate ADIF files
 that you can use to submit your activation.
+
+The following manual will explain many of the features you expect to use in more detail.

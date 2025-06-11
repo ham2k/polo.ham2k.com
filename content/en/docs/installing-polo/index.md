@@ -4,13 +4,15 @@ description: How to install PoLo on your device.
 weight: 10
 ---
 
-PoLo is currently available for Android and iOS devices. You can install it from the Google Play Store or Apple TestFlight.
+PoLo is currently available for Android and iOS devices.
 
 ## Android
 
 PoLo is available in the Google Play Store. You can install it by clicking the badge below:
 
 <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='/google-play-badge.png' alt='Google Play Store' width='240' /></a>
+
+The specification of some Android devices is such that a Lite version of PoLo has been produced. More information on this version and how to install it is found on the [Installing PoLo Lite page](./installing-pololite/).
 
 ## Apple iOS
 

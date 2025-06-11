@@ -3,7 +3,6 @@ title: Developer Mode
 description: Advanced features for developers and brave users.
 weight: 170
 ---
-
 {{% pageinfo %}}
 WARNING: Using Developer Mode features can increase the chances of crashes and data loss. Use with caution.
 {{% /pageinfo %}}
@@ -15,8 +14,6 @@ You should see a short message confirming that the mode is now enabled.
 You can use this same procedure to toggle it off.
 
 You will now find new features and options in the app, usually highlighted in an orange color.
-
-## Developer Mode Features
 
 ### Unstable Versions
 

@@ -1,6 +1,6 @@
 ---
 title: Your First Operation
-weight: 2
+weight: 30
 description: >
   Get started using PoLo and log your first contacts.
 ---

@@ -1,7 +1,7 @@
 ---
 title: Developer Mode
 description: Advanced features for developers and brave users.
-weight: 10
+weight: 170
 ---
 
 {{% pageinfo %}}
@@ -36,3 +36,11 @@ In Developer Mode you can now export and import raw data files used by PoLo, in 
 
 You can export an operation in the Operation Settings tab. And you can import a QSON file as a new operation from the
 main Developer Settings screen.
+
+### Database Management
+
+![image](./databasemanagement.png)
+
+Enabling the Developer Mode provides for a way to backup the entire database or Wipe all the data from it. Typically, however, this provides a way to move your data from one device to another e.g. when you get a new device. Furture version of PoLo will provide a data syncing service, but this developer mode action can be carried out quite effectively. It can also provde a way to change your preferred device from time to time but keep all your data available on your chosen device.
+
+Exporting the database to a cloud serivce of your choice is the easiest way to handle the database move. Then choosing Replace Database on the other device will allow selection of the new database. This is **NOT a merge function**. All data on the device being replaced will be lost and replaced by the select database from the previous export function.

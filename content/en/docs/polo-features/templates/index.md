@@ -1,6 +1,6 @@
 ---
 title: Templates
-weight: 3
+weight: 160
 description: >
   Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents.
 ---

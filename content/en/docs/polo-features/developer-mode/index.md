@@ -15,9 +15,9 @@ You can use this same procedure to toggle it off.
 
 You will now find new features and options in the app, usually highlighted in an orange color.
 
-## Developer Mode Features
+### Developer Mode Features
 
-### Unstable Versions
+#### Unstable Versions
 
 In the Deverloper Settings you can now select between three different "update channels":
 
@@ -29,14 +29,14 @@ In the Deverloper Settings you can now select between three different "update ch
 
 After changing channels, you should use the option to "Check for new versions" to download the latest version from the selected channel.
 
-### Raw Data Export and Import
+#### Raw Data Export and Import
 
 In Developer Mode you can now export and import raw data files used by PoLo, in the "QSON" data format used internally by the app.
 
 You can export an operation in the Operation Settings tab. And you can import a QSON file as a new operation from the
 main Developer Settings screen.
 
-### Database Management
+#### Database Management
 
 ![image](./databasemanagement.png)
 

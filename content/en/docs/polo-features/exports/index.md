@@ -2,7 +2,7 @@
 title: Log Exports & Privacy
 weight: 190
 description: >
-  PoLo supports efforts to maintain the privacy of your personal data.
+  PoLo supports efforts to maintain the privacy of your personal data. It also provides a way for you to share your data and system faults with the developers.
 ---
 ### Privacy Regulations
 
@@ -41,3 +41,8 @@ If you must, there is an override to this default behaviour.
 In General Settings|Export Settings, it is possible to enable the "Include Private Data" option. This option will cause the chosen export file to include the personal data of each QSO operator.
 
 Please use this option with caution. Peronal lookup data is, of course, subject to the lookup options you have enabled and subscribed to elsewhere in PoLo and also to the data you manually enter into the "More" tab of the QSOs in question. Remember that once you pass on someone's personal data, you and they no longer have control over who else can obtain it. Habits which protect other people's data will also therefore, protect your own.
+
+### General Settings - Privacy
+The application provides a way for users to share usage data including app crashes. There is also the ability to share operation data if you wish to or consider it importatnt to do so when tracking down a system bug. These settings can be enabled or disabled at any time.
+
+![privastchar](./privacydatashare.png)

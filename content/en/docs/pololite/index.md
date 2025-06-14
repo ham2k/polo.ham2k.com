@@ -1,5 +1,5 @@
 ---
-title: Installing PoLo Lite
+title: PoLo Lite
 description: How to install PoLo Lite on your Android device.
 weight: 20
 ---

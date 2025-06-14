@@ -8,7 +8,7 @@ title: PoLo Portable Logger
 <p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>
 
 <div>
-  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='186' /></a>&nbsp;&nbsp;&nbsp;<a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
+  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='207' /></a>&nbsp;&nbsp;&nbsp;<a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
 </div>
 
 <br />

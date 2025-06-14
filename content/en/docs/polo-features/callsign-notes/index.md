@@ -66,7 +66,7 @@ From this point, you may return to the Offline Data page and click on the file n
 
 ![Step 6](./step6.png)
 
-See this video for a live demonstration.
+Watch this video for a live demonstration.
 
 [<img src="./callsignnotes.png" width=450>](https://youtu.be/t-diwmvjQtQ)
 

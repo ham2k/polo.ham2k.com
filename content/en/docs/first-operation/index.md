@@ -20,7 +20,7 @@ that you can use to submit your activation.
 
 The following manual will explain many of the features you expect to use in more detail.
 
-See this video for a live demonstration.
+Watch this video for a live demonstration.
 
 [<img src="./firstoperation.png" width=450>](https://youtu.be/N1Z5NZNORdg)
 

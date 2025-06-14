@@ -53,7 +53,7 @@ We tend to keep doing the same sorts of portable operations/activities. PoLo wil
 
 ![operationtemplates](./operationtemplates.png)
 
-Tapping on the first one above, will create an operation for VK1AO and add a single POTA park and a single WWFF park. But because  a GPS location has been obtained on the device, both park will also be populated from the parks which are nearest to the set location.
+Tapping on the first one above, will create an operation for VK1AO and add a single POTA park and a single WWFF park. But because  a GPS location has been obtained on the device, both parks will also be populated from the parks which are nearest to the set location.
 
 Sometimes the park location and your location does not reflect the exact park you are in but this can easily be changed. Often, however, the selection is done for you and saves a few more taps and keying to set the operation up.
 

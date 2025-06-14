@@ -2,7 +2,6 @@
 title: Online and Offline
 weight: 70
 description: What does PoLo need to be online for?
-
 ---
 <p>During an operation PoLo only needs an Internet connection to enable spotting, and to pull contact data from qrz.com, all other data is stored on your device.</p>
 

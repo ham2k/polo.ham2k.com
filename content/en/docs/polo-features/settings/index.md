@@ -53,3 +53,24 @@ If you are a SOTA activator, then you have an account with SOTAWatch. An account
 The SOTAWatch authentication system relies on an initial loging to acquire a token. The token can be refreshed but may expire if not refreshed regularly. In this case, a fresh login is required to acquire a new token. When the text "Logged in as".. CALLSIGN is displayed, the token is current. When the token has expired, the text will display CALLSIGN only. Tapping the account will attempt to refresh the token. If a token refresh is not possible, you will be prompted to make a new login to activate the connection again. The authentication interface will remember your credentials for future login requirements.
 
 Other accounts may be listed in this section when and if they are available or required. If SOTA is not an activity that you engage with, deactivating the SOTA activity in the App Features section, will remove SOTA from the accounts section.
+
+---
+<img src="./entrysettings.png" width='40%' class='h2k-device-screen h2k-float-right' />
+
+### QSO entry settings (Logging Settings)
+
+From the elipsis button on the Operations QSO List panel, there are several options/actions that apply to the QSOs in the list.
+### Entry Field visibility
+Some operators choose not record RST values at all. Some operations do not require the excahnge at all. For these instances, you can choose to switch RST Fields off. When off, the RST fields are not visible in the QSO list, nor are they visible in the QSO entry panel. In this case, a default value is recorded for each QSO.
+### State Fields
+Many jurisdications around the world pay little attention to a State exchange during the contact. For those operations, the State fields can be turned off. It will not be shown in the QSO list, nor will it be seen in the QSO entry form.
+### Show Deleted QSOs
+Normally when QSOs are deleted, they are visibly present in the QSO list but are shown as a line-thru QSO. QSO's so deleted, can be edited and un-deleted at any time. The Show Deleted QSOs option can be turned OFF so deleted QSOs are not shown in the list at all. Deleted QSOs are also not part of any QSO count or operation statistics.
+### Numbers Row
+For some devices and some keyboards, the number row is not available or visible. Turning this option on will place a PoLo numbers row across the top of your existing keyboard.
+
+---
+### Lookup All
+You may not have cell coverage during your operation and thus no ability to lookup callsigns. In these cases, you may be using a callsign notes or callsign history adif file for offline lookups. When you return to a cell coverage area or when the coverage improves, this option will force a lookup of all QSOs in your QSO list.
+### Confirm Spots
+While spots are available, and you think you may have entered callsign(s) incorrectly. This option will run through the spots list and compare your QSOs against the visible references and callsigns you have. Corrections may be applied to your QSOs. If spots for your QSOs have expired and are not present in the list, this action has no effect.

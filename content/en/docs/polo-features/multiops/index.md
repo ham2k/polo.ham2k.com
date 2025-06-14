@@ -24,8 +24,8 @@ When you spot with this setup, the default spot comment includes "**2 ops**" in 
 ![image](./multiops-3.png)
 
 Polo Spots has the ability to consolidate spots from the same park on the same frequency. In cases like this, for other PoLo users, tapping on the spot for a multi-op activation will result in a log entry with both callsigns in the "Their Call" entry field. You can just confirm the callsigns and send them for 2 entries to be created in your log, one for each operator on the other end.
-![image](./multiops-4.png)
 
+![image](./multiops-4.png)
 
 ### Finalising/Exporting the logs
 When you finish the operation, it's time to export the logs. This time, however, you will be offered the export of logs for each Operator in the comma separated list as separate logs.

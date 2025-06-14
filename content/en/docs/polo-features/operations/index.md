@@ -44,7 +44,6 @@ Tap the eye icon onb the bottom left corner of the image to make it disappear. T
 ![image](./showimage.png)
 
 ### Operation Stats
-
 ![image](./toptabs.png)
 
 Tapping on the QSO summary bar will display the operation summary which contains a summary of bands, modes, DXCC entities and activity such as park2Park contacts for the programs being activated.

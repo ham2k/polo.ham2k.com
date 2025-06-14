@@ -2,13 +2,11 @@
 title: "Callsign Expansion"
 linkTitle: "Callsign Expansion"
 weight: 130
-description: >-
-     Using Callsign Notes file for multi-callsign expansion
+description: Using Callsign Notes file for multi-callsign expansion
 ---
 The [Callsign Notes](../callsign-notes/) file can be used to store and retrieve multiple callsign lists from a shortcut stored in the file.
 
 ### Callsign Shortcuts/Abbreviations
-
 A typical Callsign Notes file entry will look like this:
 ```
 VK1AO Alan

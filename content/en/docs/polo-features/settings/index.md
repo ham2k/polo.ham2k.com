@@ -55,7 +55,7 @@ The SOTAWatch authentication system relies on an initial loging to acquire a tok
 Other accounts may be listed in this section when and if they are available or required. If SOTA is not an activity that you engage with, deactivating the SOTA activity in the App Features section, will remove SOTA from the accounts section.
 
 ---
-<img src="./entrysettings.png" width='40%' class='float: right;' />
+<img style="float: right; margin-left: 20px" src="./entrysettings.png"/>
 
 ### QSO entry settings (Logging Settings)
 

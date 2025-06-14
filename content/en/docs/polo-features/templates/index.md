@@ -3,7 +3,7 @@ title: Templates
 weight: 160
 description: Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents. There are also Operation Templates.
 ---
-<img src="./activities.png" class='float: right;' />
+<img style="float: right; margin-left: 20px" src="./activities.png"/>
 
 ### Filenames
 Each operation activity has a default filename convention which is based on tradition or specification from each activity. For example, WWFF log filenames are typically formatted as CALLSIGN@PARKID YYYYMMDD.ADI while POTA log filenames are formatted as CALLSIGN@PARKID-YYYYMMDD.adi.
@@ -14,11 +14,11 @@ To this end, PoLo offers a way to customise the export log filename to something
 
 Under General Settings, you will find Export Settings.
 
-![image](./filenamesamples.png)
-
 ### Export Field Values
 Most field values are set during a QSO and are required for QSL purposes, e.g. callsign, mode date/time etc.
 But some may be used for personal comments or notes and may also be used in personalising QSL information e.g. the ADIF QSLMSG field.
+
+![image](./filenamesamples.png)
 
 At this time, it is possible to customise the ADIF **QSO Notes**, **QSO Comments** and **QSL Message** field values. The default customised QSL Message value is:
 

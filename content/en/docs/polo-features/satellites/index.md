@@ -6,7 +6,6 @@ description: >
 ---
 
 ### Enabling a Satellite Operation
-
 ![image](./enablesatelliteop.png)
 
 Scroll down on the App Features tab to find "Other Features". Enable Satellite Operations.

@@ -36,7 +36,6 @@ It is also possible to upload an ADIF file to your device to serve as lookup dat
 
 
 #### Differences in Data returned by QRZ for free accounts
-
 The XML data fields returned from a callsign query for free QRZ subscriptions are limited to **FirstName, Surname, Address, Country** field values only. The raw data return from such a query is show below and includes a Session Message that **A subscription is required to access the complete record.**
 
 In particular, queries for free subscribers DO NOT include grid locators, which is what PoLo uses to show the QSOs on maps.

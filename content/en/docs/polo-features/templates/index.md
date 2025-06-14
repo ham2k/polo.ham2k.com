@@ -3,7 +3,7 @@ title: Templates
 weight: 160
 description: Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents. There are also Operation Templates.
 ---
-<img src="./activities.png" class='h2k-device-screen h2k-float-right' />
+<img src="./activities.png" class='float: right;' />
 
 ### Filenames
 Each operation activity has a default filename convention which is based on tradition or specification from each activity. For example, WWFF log filenames are typically formatted as CALLSIGN@PARKID YYYYMMDD.ADI while POTA log filenames are formatted as CALLSIGN@PARKID-YYYYMMDD.adi.

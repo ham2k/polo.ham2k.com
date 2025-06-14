@@ -13,7 +13,7 @@ The QSO map is a very popular feature. There are some basic requirements to prod
 * Edit QSO gridsquares manually in the "More" control.
 
 ### Your location
-To provide the origin of the map, you must supply <code style="color : darkorange">**your**</code> location for each operation. If you select a park or summit etc, the location grid will be supplied by PoLo based on the park/summit/activity list. **Please note** that the grid will be based on the centroid of a park so a trail crossing several state borders may not accurately represent your exact location. In these cases, you should enter a gridsquare that represents your current location. You can use your device's GPS or enter the grid manually in the Operation Location setting.
+To provide the origin of the map, you must supply <span style="color : darkorange">**your**</span> location for each operation. If you select a park or summit etc, the location grid will be supplied by PoLo based on the park/summit/activity list. **Please note** that the grid will be based on the centroid of a park so a trail crossing several state borders may not accurately represent your exact location. In these cases, you should enter a gridsquare that represents your current location. You can use your device's GPS or enter the grid manually in the Operation Location setting.
 
 ![OperationLocation](./maps-location.png)
 
@@ -22,7 +22,7 @@ In cases where you have chosen to log general QSOs, you must remember to enter y
 <img src="./noqth.png" width="440">
 
 ---
-<code style="color : darkorange">**Why do I not see any lines on my QSO map?**</code> Most likely because you do not have your own location set for the operation.
+<span style="color : darkorange">**Why do I not see any lines on my QSO map?**</span> Most likely because you do not have your own location set for the operation.
 
 ### The location of the other operator
 The other operator may be at their home location, or in a park/summit etc. For operators at their home location, their gridsquare is sourced from either a live/online lookup (refer to [Data Lookups](../lookups/) in this doumentation), offline or historical data, or the Park2Park or Summit etc gridsquare.
@@ -33,11 +33,11 @@ As stated elsewhere in this documentation, the details of live data from QRZ is 
 
 In the case of a missing gridsquare e.g. using a free subscription and a chaser at their home QTH, their location will be based on the ability of PoLo to interpret the callsign location. The location may be the centre of the operator's country only, or in some cases a state of the operator's country.
 
-<code style="color : darkorange">**Why do all the lines on my map go to one place, in the centre of the country?**</code> The most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Country centroids may be used in this case.
+<span style="color : darkorange">**Why do all the lines on my map go to one place, in the centre of the country?**</span> The most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Country centroids may be used in this case.
 
-<code style="color : darkorange">**Why do all the lines on my map go to the centre of each US state?**</code> The most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Where possible, PoLo will place the location according to a lookup in Big.cty file. Vanity callsigns which are not be present in the big.cty file will be placed in the centre of the 48 States.
+<span style="color : darkorange">**Why do all the lines on my map go to the centre of each US state?**</span> The most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Where possible, PoLo will place the location according to a lookup in Big.cty file. Vanity callsigns which are not be present in the big.cty file will be placed in the centre of the 48 States.
 
-<code style="color : darkorange">**Why are some QSO lines missing?**</code> Again, the most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Country centroids may be used in this case. So several contacts may be drawn to the same location and appear as if they are missing.
+<span style="color : darkorange">**Why are some QSO lines missing?**</span> Again, the most likely reason is because you are limited to a free QRZ subscription and operator gridsquares are not available. Country centroids may be used in this case. So several contacts may be drawn to the same location and appear as if they are missing.
 
 This can also happen even if you do have a paid QRZ account and you work more than one person in the same gridsquare. In this case, the dots may be drawn on top of one another and appear as if some lines or dots are missing.
 

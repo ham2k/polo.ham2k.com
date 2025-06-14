@@ -10,7 +10,7 @@ PoLo is available in the Google Play Store. You can install it by clicking the b
 
 <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='google-play-badge.png' alt='Google Play Store' width='186' /></a>
 
-The specification of some Android devices is such that a Lite version of PoLo has been produced. More information on this version and how to install it is found on the [PoLo Lite page](./pololite/).
+The specification of some Android devices is such that a Lite version of PoLo has been produced. More information on this version and how to install it is found on the [PoLo Lite page](../pololite/).
 
 ### Apple iOS
 PoLo is available in the iOS AppStore. You can install it by clicking the badge below:

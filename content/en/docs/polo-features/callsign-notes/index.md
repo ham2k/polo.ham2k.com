@@ -70,4 +70,4 @@ Watch this video for a live demonstration.
 
 [<img src="./callsignnotes.png" width=450>](https://youtu.be/t-diwmvjQtQ)
 
-For more videos, [check out the Ham2K YouTube channe](https://www.youtube.com/@Ham2KApps/videos)
+For more videos, [check out the Ham2K YouTube channel](https://www.youtube.com/@Ham2KApps/videos)

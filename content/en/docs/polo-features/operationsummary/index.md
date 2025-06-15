@@ -1,5 +1,5 @@
 ---
-title: Operations Summary Panel
+title: Home Screen
 weight: 48
 description: Your list of Operations.
 ---

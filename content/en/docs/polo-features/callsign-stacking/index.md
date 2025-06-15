@@ -21,4 +21,4 @@ Watch this video for a live demonstration.
 
 [<img src="./callstacking.png" width=450>](https://youtu.be/bmCj8XjqP3c)
 
-For more videos, [check out the youtube channel](https://www.youtube.com/@Ham2KApps/videos)
+For more videos, [check out the Ham2K YouTube channe](https://www.youtube.com/@Ham2KApps/videos)

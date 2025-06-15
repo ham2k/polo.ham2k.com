@@ -1,15 +1,15 @@
 ---
 title: Logger Settings
-weight: 52
+weight: 54
 description: Your list of Operations.
 ---
 PoLo's settings are found behind the settings cog icon on the top of the operations list screen
 
 ![Settings](./loggersettings.png)
 
-PoLo application Settings may include Developer Settings if [Developer Mode](../developer-mode/) is activated. Developer Settings are highlighted in orange and include the Sync Settings which are not not complete at time of writing.
+PoLo application Settings may include Developer Settings if [Developer Mode](../developer-mode/) is activated. Developer Settings are highlighted in orange.
 
-![GenSettings](./gensettings.png)
+![GenSettings](./gensettingsnodev.png)
 
 You should first set your Operator's Callsign.
 
@@ -74,3 +74,9 @@ For some devices and some keyboards, the number row is not available or visible.
 You may not have cell coverage during your operation and thus no ability to lookup callsigns. In these cases, you may be using a callsign notes or callsign history adif file for offline lookups. When you return to a cell coverage area or when the coverage improves, this option will force a lookup of all QSOs in your QSO list.
 ### Confirm Spots
 While spots are available, and you think you may have entered callsign(s) incorrectly. This option will run through the spots list and compare your QSOs against the visible references and callsigns you have. Corrections may be applied to your QSOs. If spots for your QSOs have expired and are not present in the list, this action has no effect.
+
+---
+### General Settings - Privacy
+The application provides a way for users to share usage data including app crashes. There is also the ability to share operation data if you wish to or consider it importatnt to do so when tracking down a system bug. These settings can be enabled or disabled at any time.
+
+![privastchar](./privacydatashare.png)

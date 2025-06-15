@@ -1,7 +1,7 @@
 ---
-title: Templates
+title: Export Templates
 weight: 160
-description: Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents. There are also Operation Templates.
+description: Templates offer a powerful way to use operation and QSO data in dynamic ways for both filename and export field value contents.
 ---
 <img style="float: right; margin-left: 20px" src="./activities.png"/>
 
@@ -47,14 +47,3 @@ Some further field values for use in the export log fields are:
 ![image](./operationdetails.png)
 
 ![image](./qsoinformation.png)
-
-### Operation Templates
-We tend to keep doing the same sorts of portable operations/activities. PoLo will recoginse the pattern and offer a template for your next new Operation base on prior behaviour. The templates in the offering below show the most popular operations. Selecting one will save a few taps when creating a new one.
-
-![operationtemplates](./operationtemplates.png)
-
-Tapping on the first one above, will create an operation for VK1AO and add a single POTA park and a single WWFF park. But because  a GPS location has been obtained on the device, both parks will also be populated from the parks which are nearest to the set location.
-
-Sometimes the park location and your location does not reflect the exact park you are in but this can easily be changed. Often, however, the selection is done for you and saves a few more taps and keying to set the operation up.
-
-If you popularly operate as 2 or 3 operators in a group, the template will show the callsigns of all the operators and save keying them in to begin.

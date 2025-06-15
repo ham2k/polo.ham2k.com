@@ -24,4 +24,4 @@ Watch this video for a live demonstration.
 
 [<img src="./firstoperation.png" width=450>](https://youtu.be/N1Z5NZNORdg)
 
-For more videos, [check out the youtube channel](https://www.youtube.com/@Ham2KApps/videos)
+For more videos, [check out the Ham2K YouTube channel](https://www.youtube.com/@Ham2KApps/videos)

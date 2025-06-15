@@ -2,7 +2,6 @@
 title: Emojis
 weight: 150
 description: What do the emojis in the log mean?
-
 ---
 <p>Every now and then you will see an emoji within the Callsign Info Panel, for example if you enter KI2D you'll get the following: 🤩 Sebastián - Ham2K PoLo Creator.</p>
 

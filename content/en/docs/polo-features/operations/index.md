@@ -1,7 +1,7 @@
 ---
 title: Operations/QSO List Panel
 weight: 50
-description: How PoLo is operated.
+description: Your list of QSOs.
 ---
 In the full version of PoLo, the top of the panel is demarcated by 4 tabs - QSOs, SPOTS, MAP and OPERATION
 
@@ -44,7 +44,6 @@ Tap the eye icon onb the bottom left corner of the image to make it disappear. T
 ![image](./showimage.png)
 
 ### Operation Stats
-
 ![image](./toptabs.png)
 
 Tapping on the QSO summary bar will display the operation summary which contains a summary of bands, modes, DXCC entities and activity such as park2Park contacts for the programs being activated.

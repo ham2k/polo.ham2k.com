@@ -74,14 +74,12 @@ Data file downloaded on device. Supports search of nearby references, or by name
 PoLo enables the logging of satellite contacts; the local satellite list is not expansive, if your choice of satellite is not available please raise it. Spotting not available at this time. Refer to [Satellites](../polo-features/satellites/) topic for setup information.
 
 ### Custom Activity
-
 If the activity you are interested in is not listed above, you can still add it as a "Custom Activity" as long
 as the organizers accept ADIF logs using the `SIG_INFO` fields. (see <a href='https://adif.org/314/ADIF_314.htm#QSO_Field_MY_SIG' target='_blank'>the ADIF docs</a>)
 
 No spotting is available for Custom Activities.
 
 ### Field Day Activities
-
 There is also a significant list of QSO party and Field Day operations templates
 
 ![FieldDay Activities](./fielddayactivities.png)

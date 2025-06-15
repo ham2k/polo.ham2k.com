@@ -8,7 +8,7 @@ title: PoLo Portable Logger
 <p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>
 
 <div>
-  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='240' /></a>&nbsp;&nbsp;&nbsp;<a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
+  <a href='https://play.google.com/store/apps/details?id=com.ham2k.polo.beta'  target='_blank'><img src='./google-play-badge.png' alt='Google Play Store' width='207' /></a>&nbsp;&nbsp;&nbsp;<a href='https://apps.apple.com/us/app/ham2k-portable-logger/id6478713938'  target='_blank'><img src='./apple-appstore-badge.svg' alt='Apple AppStore' width='186' /></a>
 </div>
 
 <br />
@@ -26,7 +26,6 @@ title: PoLo Portable Logger
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
 
 PoLo, short for Portable Logger, is a mobile application for amateur radio operators to log their contacts on the go. It is designed to be simple, fast, and easy to use, with a focus on the most important features for logging contacts.
@@ -36,7 +35,6 @@ Field Day, Winter Field Day, and many more.
 
 {{% /blocks/lead %}}
 
-
 {{% blocks/section color="dark" type="row" %}}
 
 {{% blocks/feature icon="fas fa-comments" title="Join our Community!" %}}
@@ -45,8 +43,6 @@ Our [Forums](https://forums.ham2k.com/) is where you can report issues, get help
 
 {{% /blocks/feature %}}
 
-
-
 {{% blocks/feature icon="fab fa-github" title="PoLo is Open Source!" %}}
 
 Check the [source code](https://github.com/ham2k/app-polo) on **GitHub**.
@@ -54,8 +50,6 @@ Check the [source code](https://github.com/ham2k/app-polo) on **GitHub**.
 New contributors are always welcome!
 
 {{% /blocks/feature %}}
-
-
 
 {{% blocks/feature icon="fa fa-coins" title="Support the Project!" %}}
 

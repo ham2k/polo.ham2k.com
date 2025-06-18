@@ -1,8 +1,7 @@
 ---
 title: Your First Operation
 weight: 30
-description: >
-  Get started using PoLo and log your first contacts.
+description: Get started using PoLo and log your first contacts.
 ---
 
 <img src="./first-op.gif" width='40%' class='h2k-device-screen h2k-float-right' />
@@ -20,3 +19,9 @@ Keep logging contacts, and once you're done go to the "Operation" tab and select
 that you can use to submit your activation.
 
 The following manual will explain many of the features you expect to use in more detail.
+
+Watch this video for a live demonstration.
+
+[<img src="./firstoperation.png" width=450>](https://youtu.be/N1Z5NZNORdg)
+
+For more videos, [check out the Ham2K YouTube channel](https://www.youtube.com/@Ham2KApps/videos)

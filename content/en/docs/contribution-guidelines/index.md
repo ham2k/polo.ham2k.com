@@ -3,7 +3,6 @@ title: Contribution Guidelines
 weight: 310
 description: How to contribute to the docs
 ---
-
 {{% pageinfo %}}
 These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.
 
@@ -22,7 +21,7 @@ use GitHub pull requests for this purpose. Consult
 [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
 information on using pull requests.
 
-## Quick start with Netlify
+### Quick start with Netlify
 
 Here's a quick guide to updating the docs. It assumes you're familiar with the
 GitHub workflow and you're happy to use the automated preview of your doc
@@ -43,16 +42,14 @@ updates:
 1. When you're ready for a review, add a comment to the PR, and remove any
   "WIP" markers.
 
-## Updating a single page
-
+### Updating a single page
 If you've just spotted something you'd like to change while using the docs, Docsy has a shortcut for you:
 
 1. Click **Edit this page** in the top right hand corner of the page.
 1. If you don't already have an up to date fork of the project repo, you are prompted to get one - click **Fork this repository and propose changes** or **Update your Fork** to get an up to date version of the project to edit. The appropriate page in your fork is displayed in edit mode.
 1. Follow the rest of the [Quick start with Netlify](#quick-start-with-netlify) process above to make, preview, and propose your changes.
 
-## Previewing your changes locally
-
+### Previewing your changes locally
 If you want to run your own local Hugo server to preview your changes as you work:
 
 1. Follow the instructions in [Getting started](/docs/getting-started) to install Hugo and any other tools you need. You'll need at least **Hugo version 0.45** (we recommend using the most recent available version), and it must be the **extended** version, which supports SCSS.
@@ -67,18 +64,15 @@ If you want to run your own local Hugo server to preview your changes as you wor
   changes up to your fork, and create a pull request.
 
 ## Creating an issue
-
 If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the [PoLo Docs repo](https://github.com/ham2k/polo.ham2k.com/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
 
-## Useful resources
-
+### Useful resources
 * [Docsy user guide](https://www.docsy.dev/docs/): All about Docsy, including how it manages navigation, look and feel, and multi-language support.
 * [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
 * [Github Hello World!](https://guides.github.com/activities/hello-world/): A basic introduction to GitHub concepts and workflow.
 
-## How to...
+### How to...
 
-### Add an Icon
-
+#### Add an Icon
 If you want to add an icon to a page, referencing one of the icons in the app, visit the [Material Design Icon Community Library](https://pictogrammers.com/library/mdi/), find the icon you want,
 click on the <svg viewBox="0 0 24 24" height="1.5rem"><path d="M12.89,3L14.85,3.4L11.11,21L9.15,20.6L12.89,3M19.59,12L16,8.41V5.58L22.42,12L16,18.41V15.58L19.59,12M1.58,12L8,5.58V8.41L4.41,12L8,15.58V18.41L1.58,12Z" style="fill: currentcolor;"></path></svg> "Copy SVG" button, paste the SVG code into your page and add a `height="1.5rem"` attribute to the `<svg>` tag to set the size.

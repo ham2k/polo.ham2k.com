@@ -1,5 +1,5 @@
 ---
-title: Operations Summary Panel
+title: Home Screen
 weight: 48
 description: Your list of Operations.
 ---
@@ -12,16 +12,13 @@ At the bottom of the Operations Summary is a Quick Call Lookup and Spots link.
 ![image](./quicklookup.png)
 
 ### Quick Callsign Lookup
-
 Enter a callsign inteh  lookup area and the lookup data will display including any Callsign Notes you have present for the callsign.
 Tap the panel to open the full QRZ callsign lookup.
 
 ![image](./qrzlookup.png)
 
 ### Spots
-
 Tap the hamburger icon to open the Spots page. This can be handy for checking spots when not in a specific operation. Unlike the action available during an operation, tapping a spot on this view will not enter the details to start logging a QSO. You need to be in an operation for this action to apply.
 
 ### Opening an Operation
-
 Tap on an operation band to open the Operation for editing. See [Operations/QSO List Panel](../operations/) for information on entering QSOs.

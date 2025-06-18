@@ -2,7 +2,6 @@
 title: Tips and Tricks
 weight: 200
 description: Helpful hints and shortcuts for using PoLo.
-
 ---
 ### Shortcut Commands from the Callsign Input Field
 
@@ -27,7 +26,7 @@ When you are in the callsign input field, you can use the following shortcuts, a
 * Enter `KONAMI` to enable or disable [Developer Mode](../developer-mode/).
 
 ### Smart Data Entry
-Call stacking can be done by using `//` or `..`. The last valid call in the list is accepted when you press "Send", and the rest are preserved in the callsign entry field.
+See the [Call Stacking](../callsign-stacking/) section for handling pile-ups.
 
 In most activation reference fields (POTA, SOTA, etc) you only need to enter letters and number, and PoLo will automatically fill in any dashes and slashes. And in many cases you can skip the prefix too and PoLo will guess it from the callsign.
 
@@ -36,7 +35,6 @@ So for a POTA Park-to-Park contact with, say, `LB4FH` in `NO-2518`, you can just
 For SOTA reference `VK1/AC-001`, all you need is to enter `VK1AC001`.
 
 ### Quick field selection
-
 Use the `[space]` key to quickly select the next field in the form. This is especially useful when you are logging a lot of contacts and want to keep your hands on the keyboard.
 
 Also, if the report is just `59`, you can leave the field empty.
@@ -45,32 +43,13 @@ Some keyboards also support using the `[tab]` key to move to the next field, but
 expanding this to more keyboards, but iOS and Android make it harder to deal with these keys than desktop operating systems.
 
 ### Multiple QSOs at once
-
 You can use commas to enter more than one callsign at a time and PoLo will log them as separate QSOs. This is useful, for example,
 when  you log a POTA Park-to-park contact with multiple operators on the other end.
 
 This also works when editing existing QSOs if you want to duplicate the information for another operator.
 
-### Callsign Stacking
-
-Everyone will have their favourite way to handle a pileup. For those who like the callsign fragment method i.e. one where you might scribble down callsign fragments and then back track to each fragment in the list one at a time, then Callsign Stacking may be of interest.
-
-In the "Their Call" entry field, enter each fragment that is heard separated by double slashes
-
-![image](./stacking-1.png)
-
-Then work backwards through the stack, correcting each call until confirmed. Once confirmed, send the corrected call to you log.
-
-![image](./stacking-2.png)
-
-Sending a complete call will remove it from the stack and leave the stack ready for correcting the next partial/fragment.
-
-Continue until all fragments are corrected and submittted.
-
 ### Smart Slash
-
 Most phone and tablet keyboards make it hard to enter a slash (`/`) character, which is often needed when logging callsigns like `WV3H/VE` or `VK1AO/P`. A period (`.`) can be used instead and PoLo will convert it to a slash.
 
 ### Bearing and distance
-
 Entering your qrz.com credentials in Settings > Accounts > QRZ will enable PoLo to provide details of contacts you make. If you have a qrz.com subscription it will also provide bearing and distance information to your contact.

@@ -105,6 +105,25 @@
     ]
   },
   {
+    "name": "AO-123",
+    "number": 61781,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 435.400,
+        "upperMHz": 435.400
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.850,
+        "upperMHz": 145.850
+      }
+    ]
+  },
+  {
     "name": "BeliefSat-0",
     "number": 58695,
     "modulation": "fm",

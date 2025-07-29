@@ -31,7 +31,7 @@ Spots for this activity are posted to <a href='https://sotawatch.sota.org.uk/en/
 <a href='https://wwff.co' target='_blank'>Official Site</a> •
 Data file downloaded on device. Supports search of nearby references, or by name or code; self and other OP spotting.
 
-Spots for this activity are posted to <a href='https://spots.wwff.co/' target='_blank'>WWFF Spotline</a> and can be enabled and filtered on the PoLo Spots tab if this extension is enabled.
+Spots for this activity are posted to <a href='https://spots.wwff.co/' target='_blank'>WWFF Spotline</a> and can be enabled and filtered on the PoLo Spots tab if this extension is enabled. Spots for VKFF and ZLFF parks will also appear on the <a href='https://parksnpeaks.org/index.php'  target='_blank'>ParksnPeaks website</a>.
 
 
 ### <svg height="1.2em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>summit</title><path d="M15,3H17L22,5L17,7V10.17L22,21H2L8,13L11.5,17.7L15,10.17V3Z" /></svg> GMA - Global Mountain Activity
@@ -66,20 +66,32 @@ Spots for this activity are posted to <a href='https://www.cqgma.org/gw2001.php'
 ### <svg height="1.2em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Australian Silo</title><path d="M15 7.8C14.6 4.5 11.8 2 8.5 2C6.8 2 5.1 2.7 3.9 3.9S2 6.8 2 8.5V22H15V9.8L18 11.6V22H20V12.8L22 14V12L15 7.8M11 20H6V18H11V20M11 16H6V14H11V16M11 12H6V10H11V12M4.3 7C4.9 5.2 6.6 4 8.5 4S12.1 5.2 12.7 7H4.3Z" /></svg> SiOTA - Silos On The Air
 
 <a href='https://www.silosontheair.com/' target='_blank'>Official Site</a> •
-Data file downloaded on device. Supports search of nearby references, or by name or code. Spotting not available at this time.
+Data file downloaded on device. Supports search of nearby references, or by name or code. Spots for SiOTA are posted to the ParksnPeaks website, see below. Spots from other Silo activations are also listed on the spots page when this acivity is enabled and a ParksnPeaks authentication is supplied.
 
 ### <svg height="1.2em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>satellite-variant</title><path d="M11.62,1L17.28,6.67L15.16,8.79L13.04,6.67L11.62,8.09L13.95,10.41L12.79,11.58L13.24,12.04C14.17,11.61 15.31,11.77 16.07,12.54L12.54,16.07C11.77,15.31 11.61,14.17 12.04,13.24L11.58,12.79L10.41,13.95L8.09,11.62L6.67,13.04L8.79,15.16L6.67,17.28L1,11.62L3.14,9.5L5.26,11.62L6.67,10.21L3.84,7.38C3.06,6.6 3.06,5.33 3.84,4.55L4.55,3.84C5.33,3.06 6.6,3.06 7.38,3.84L10.21,6.67L11.62,5.26L9.5,3.14L11.62,1M18,14A4,4 0 0,1 14,18V16A2,2 0 0,0 16,14H18M22,14A8,8 0 0,1 14,22V20A6,6 0 0,0 20,14H22Z" /></svg> AMSAT - Amateur Satellite
 
 <a href='https://www.amsat.org/' target='_blank'>Official Site</a> •
 PoLo enables the logging of satellite contacts; the local satellite list is not expansive, if your choice of satellite is not available please raise it. Spotting not available at this time. Refer to [Satellites](../polo-features/satellites/) topic for setup information.
 
+### <svg height="1.2em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><title>kiwi-bird</title><path d="M291.2 388.4c31.2-18.8 64.7-36.4 101.1-36.4l55.7 0c4.6 0 9.1-.2 13.6-.7l85.3 121.9c4 5.7 11.3 8.2 17.9 6.1s11.2-8.3 11.2-15.3l0-240c0-70.7-57.3-128-128-128l-55.7 0c-36.4 0-69.9-17.6-101.1-36.4C262.3 42.1 228.3 32 192 32C86 32 0 118 0 224c0 71.1 38.6 133.1 96 166.3L96 456c0 13.3 10.7 24 24 24s24-10.7 24-24l0-46c15.3 3.9 31.4 6 48 6c5.4 0 10.7-.2 16-.7l0 40.7c0 13.3 10.7 24 24 24s24-10.7 24-24l0-50.9c12.4-4.4 24.2-10 35.2-16.7zM448 200a24 24 0 1 1 0 48 24 24 0 1 1 0-48z" /></svg> ZLOTA - ZL On The Air
+
+<a href='https://ontheair.nz/' target='_blank'>Official Site</a> •
+PoLo enables the logging of ZL On The Air contacts. Spots for ZLOTA activities are posted to <a href='https://ontheair.nz/spots?'  target='_blank'>ZLOTA spots page</a> as well as to the <a href='https://parksnpeaks.org/index.php'  target='_blank'>ParksnPeaks website</a>. The ZLOTA functions require a separate authentication.
+
+### <svg height="1.2em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM208.6 357.3l-39-13.5c-6.5-2.2-13.6-2.3-20.1-.3l-15.3 4.9c-18.5 5.9-38.5-2.4-47.5-19.5l-3.3-6.2c-10.6-20.1-2.3-45 18.2-54.7l35.3-16.8c2.3-1.1 4.4-2.8 5.9-4.8l5.3-7c7.2-9.6 18.6-15.3 30.6-15.3s23.4 5.7 30.6 15.3l4.6 6.1c2 2.6 4.9 4.5 8.1 5.1c7.8 1.6 15.7-1.5 20.4-7.9l10.4-14.2c2-2.8 5.3-4.4 8.7-4.4c4.4 0 8.4 2.7 10 6.8l10.1 25.9c2.8 7.2 6.7 14 11.5 20.2L311 299.8c5.8 7.4 9 16.6 9 26s-3.2 18.6-9 26L299 367.2c-8.3 10.6-21 16.8-34.4 16.8c-8.4 0-16.6-2.4-23.7-7l-25.4-16.4c-2.2-1.4-4.5-2.5-6.9-3.4zm65.2-214.8L296 164.7c10.1 10.1 2.9 27.3-11.3 27.3l-29.9 0c-5.6 0-11.1-1.2-16.2-3.4l-42.8-19c-14.3-6.3-11.9-27.3 3.4-30.3l38.5-7.7c13.1-2.6 26.7 1.5 36.1 10.9zM248 432c0-8.8 7.2-16 16-16l16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-16 0c-8.8 0-16-7.2-16-16zM431.2 298.9l8 24c2.8 8.4-1.7 17.4-10.1 20.2s-17.4-1.7-20.2-10.1l-8-24c-2.8-8.4 1.7-17.4 10.1-20.2s17.4 1.7 20.2 10.1zm-19.9 80.4l-32 32c-6.2 6.2-16.4 6.2-22.6 0s-6.2-16.4 0-22.6l32-32c6.2-6.2 16.4-6.2 22.6 0s6.2 16.4 0 22.6z"/></svg> ParksnPeaks Website
+
+<a href='https://parksnpeaks.org/index.php' target='_blank'>Official Site</a> •
+Although not a separate activity, the ParksnPeaks website is well known in Australia for consolidating/merging spots from many sources and directly receving spots for several of its hosted activites. In particular, ParksnPeaks pulls spots from both POTA and Spotline (WWFF) so PoLo spotting for these activites will appear on ParksnPeaks. It will also recieve and publish spots for Silos on the Air (SiOTA - see above). PoLo posts spots to ParksnPeaks for SiOTA. The ParksnPeaks function requires a separate authentication.
+
 ### Custom Activity
 If the activity you are interested in is not listed above, you can still add it as a "Custom Activity" as long
 as the organizers accept ADIF logs using the `SIG_INFO` fields. (see <a href='https://adif.org/314/ADIF_314.htm#QSO_Field_MY_SIG' target='_blank'>the ADIF docs</a>)
 
-No spotting is available for Custom Activities.
+Currently, candidates for using the Custom Activity include ARLHS (Amateur Radio Lighthouse Society), <a href='http://usislands.org/' target='_blank'>US Islands on the Air</a> and <a href='https://www.beachesontheair.com/' target='_blank'>Beaches on the Air</a> amongst several others. No spotting is available for Custom Activities.
 
 ### Field Day Activities
 There is also a significant list of QSO party and Field Day operations templates
 
 ![FieldDay Activities](./fielddayactivities.png)
+
+The list of supported activities is always growing. Keep your eye on the App Features in Settings for the latest in both Location Based and Contest & Fields Ops Activities supported.

@@ -31,11 +31,17 @@ If a login is successful, this link test will change to a tick
 Previous Operations may be left on your device and serve as data lookups in the event that no cell coverage is available and no ADIF data has been uploaded to the device. [**Callsign Notes**](https://polo.ham2k.com/docs/polo-features/callsign-notes/), if enabled, will always be presented on the callsign entry form when a callsign match is found.
 
 Operation Data also serves to provide statistics with regard to the number of contacts/QSOs made with another operator.
+
 ### ADIF History
 It is also possible to upload an ADIF file to your device to serve as lookup data. In this case, historical lookups are done across all operations plus the ADIF records you have loaded.
 
+![alt text](callhistory.png)
 
-#### Differences in Data returned by QRZ for free accounts
+Enabling Call History data lookups will use the historic ADIF data imported under Data Settings for data lookups. It will also enable QSO statistics to be calculated from all data (Operations and Historic ADIF imports) and display summaries when both entering/editing QSOs and displayed on the full callsign lookup panel.
+
+![alt text](qsostats.png)
+
+#### Differences in Data returned by QRZ free accounts versus paid subscriptions
 The XML data fields returned from a callsign query for free QRZ subscriptions are limited to **FirstName, Surname, Address, Country** field values only. The raw data return from such a query is show below and includes a Session Message that **A subscription is required to access the complete record.**
 
 In particular, queries for free subscribers DO NOT include grid locators, which is what PoLo uses to show the QSOs on maps.

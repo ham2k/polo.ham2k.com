@@ -66,11 +66,11 @@ Type "CW" or "SSB" to set the mode.
 Consecutive entries will advance the QSO time by 1 minute per entry, you may wish to adjust back or forward when you move more than a few minutes away from your written log entries.
 
 ### Frequency and Reference editing
-Editing/correcting a frequency after a callsign has been entered can be achieved by tapping into the frequency box, backspacing out the entered frequency and re-enering the correct/desired frequency. Let's not forget that a quicker way to correct a frequency, avoiding multiple taps on the backspace, can be achieved by a tap and hold on the frequency.
+Editing/correcting a frequency after a callsign has been entered can be achieved by tapping into the frequency box, backspacing out the entered frequency and re-entering the correct/desired frequency. Let's not forget that a quicker way to correct a frequency, avoiding multiple taps on the backspace, can be achieved by a tap and hold on the frequency.
 
 ![alt text](taphold.png)
 
-Once the field value is seleced, typing a new frequency will wipe the old and replace with with the new value.
+Once the field value is seleced, typing a new frequency will wipe the old and replace with a new value.
 The same can be achieved in other fields such as the reference fields.
 
 ![alt text](refedit.png)

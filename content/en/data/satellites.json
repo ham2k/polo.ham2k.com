@@ -428,6 +428,24 @@
     ]
   },
   {
+    "name": "SO-125",
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.666,
+        "upperMHz": 436.666
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.875,
+        "upperMHz": 145.875
+      }
+    ]
+  },
+  {
     "name": "TO-108",
     "number": 44909,
     "modulation": "linear",

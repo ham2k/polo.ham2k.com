@@ -28,6 +28,6 @@ Ensure that the satellite you are selecting is visibly selected in the control p
 
 The export feature will export all fields associated with these satellite contacts.
 
-[The list of satellites available for selection within PoLo can be found here](https://github.com/ham2k/polo.ham2k.com/blob/main/content/en/data/satellites.json).
+[The list of satellites available for selection within PoLo can be found here](https://github.com/ham2k/polo.ham2k.com/blob/main/content/en/data/satellites.json). 
 
-If you are aware of a satellite missing from this list please leave a message to the effect on the <a href='https://forums.ham2k.com/' target='_blank'>PoLo support forums</a>
+If you are aware of a satellite missing from this list you are highly encouraged to make edits and additions to the file for yourself and the benefit of others. It's as simple as creating a GitHub login if you do not already have one, then making the edits following the form shown in other entriese. **Don't be frightened or hesitate...** you cannot make a mistake or break anything. Any formatting issues can be corrected in the Pull Request Approval process. You may also leave a message on the <a href='https://forums.ham2k.com/' target='_blank'>PoLo support forums</a>

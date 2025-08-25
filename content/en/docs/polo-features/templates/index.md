@@ -47,3 +47,8 @@ Some further field values for use in the export log fields are:
 ![image](./operationdetails.png)
 
 ![image](./qsoinformation.png)
+
+### Popular SOTA template for Signal Reports
+A popular addtition to the Custom template used by SOTA activators is to Enable Custom Templates for SOTA Activation (ADIF) and add {{qso.our.sent}} {{qso.their.sent}} to QSO Comments field so the field says
+
+![custom comments](sigreportsSOTA.png)

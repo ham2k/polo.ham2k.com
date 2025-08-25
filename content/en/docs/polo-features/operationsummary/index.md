@@ -12,7 +12,7 @@ At the bottom of the Operations Summary is a Quick Call Lookup and Spots link.
 ![image](./quicklookup.png)
 
 ### Quick Callsign Lookup
-Enter a callsign inteh  lookup area and the lookup data will display including any Callsign Notes you have present for the callsign.
+Enter a callsign in the lookup area and the lookup data will display including any Callsign Notes you have present for the callsign.
 Tap the panel to open the full QRZ callsign lookup.
 
 ![image](./qrzlookup.png)

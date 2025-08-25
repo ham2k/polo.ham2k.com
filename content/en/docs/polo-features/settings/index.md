@@ -23,14 +23,14 @@ The list of general settings avilable to your operating style should be self exp
 Refer also to [Privacy and Export settings](../exports/index.md#general-settings---privacy) for enabling data and app usage sharing.
 
 #### Logging Settings
-Logging settings refer to how you like to enter your data in the QSO entry screen and what additional information is shown int eh QSO list.
+Logging settings refer to how you like to enter your data in the QSO entry screen and what additional information is shown in the QSO list.
 You may be left-handed, in which case the send button will appear on the left side of the entry fields.
 You may wish to see country flags only for DX stations, not your own.
 You may not wish to collect or see the State field.
 You may wish to record signal reports as Sent first or Received first.
 You may like to see a bearing to the other station (requires gridsquare/paid QRZ account)
 You may like the field entries to jump automatically to the next field during entry.
-Finally, you may activate/enable more or less bands and modes to enlarge or shorten the band or mode drop down lists int eh QSO entry form. A separate section is found here on [Bands and Modes](../bands-and-modes/).
+Finally, you may activate/enable more or less bands and modes to enlarge or shorten the band or mode drop down lists in the QSO entry form. A separate section is found here on [Bands and Modes](../bands-and-modes/).
 #### Data Settings
 PoLo relies on certain offline data files which are refreshed when the application is started up. Data files can also be refreshed manually if required. Depending on your chosen [supported acvtivity](../../supported-activities/), different offline Data files will be listed.
 It is also possible to install your own offline data file. An ADIF file of contacts/log can be imported and used during QSO entry to obtain names and locations.

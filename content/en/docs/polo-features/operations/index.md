@@ -16,7 +16,7 @@ Tapping an Active Control will provide the appropriate fields for information to
 
 ![image](./qsopanel.png)
 
-The Callsign Information Panel can show various pieces of information dependant on your installation and circumstances.
+The Callsign/Operation Information Panel can show various pieces of information dependant on your installation and circumstances.
 * If you entered a qrz.com account in PoLo settings then the name and location held for your contact will be displayed.
 * If you subscribe to qrz.com then their bearing and distance will also be displayed (assuming your contact has location details set at qrz.com)
 * You should also see a country flag, and occasionally an emoji, that contact is in the Ham2K Hams of Note list. The meaning for these is covered in the emojis area of the manual.
@@ -46,6 +46,12 @@ Tap the eye icon onb the bottom left corner of the image to make it disappear. T
 ### Operation Stats
 ![image](./toptabs.png)
 
-Tapping on the QSO summary bar will display the operation summary which contains a summary of bands, modes, DXCC entities and activity such as park2Park contacts for the programs being activated.
+Tapping on the QSO summary bar will display the operation summary which contains a summary of bands, modes, DXCC entities and activity such as park2Park contacts for the programs being activated. 
 
 ![image](./operationstats.png)
+
+It is also possible to access the Operation Stats by tapping on the Operation Information area.
+
+![image](./qsopanel.png)
+
+When no callsign is present in the "Their Call" field.

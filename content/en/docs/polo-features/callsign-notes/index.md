@@ -52,7 +52,7 @@ In the Callsign Notes page, click on ```+ Add a new file``` then give the file a
 ![Step 3](./step3.png)
 
 #### Step 4:
-In the Custom window, provide a name for your files and paste the url for the file into the Location field
+In the Custom window, provide a name for your files and paste the url for the file into the Location field. The resource provided from a Cloud service must be granted _public access_ or _shared with everyone_.
 
 ![Step 4](./step4.png)
 

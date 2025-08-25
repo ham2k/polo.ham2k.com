@@ -53,3 +53,26 @@ Most phone and tablet keyboards make it hard to enter a slash (`/`) character, w
 
 ### Bearing and distance
 Entering your qrz.com credentials in Settings > Accounts > QRZ will enable PoLo to provide details of contacts you make. If you have a qrz.com subscription it will also provide bearing and distance information to your contact.
+
+### Post Logging
+Entering logs into PoLo from paper logs may be assisted by these quick entry commands.
+Using the callsign entry field:
+Type "14:55" to change the time. This also pauses the clock until you tap on the time and tap "Back to now"
+Type "-1m" or "+3m" to adjust the time back one or forward 3 minutes.
+Type "-1d" or "+3d" to adjust the days back one or forward 3 days.
+Type "7200" or "7.200" to set the frequency.
+Type "20m" to set the band - where no exact frequency is desired.
+Type "CW" or "SSB" to set the mode.
+Consecutive entries will advance the QSO time by 1 minute per entry, you may wish to adjust back or forward when you move more than a few minutes away from your written log entries.
+
+### Frequency and Reference editing
+Editing/correcting a frequency after a callsign has been entered can be achieved by tapping into the frequency box, backspacing out the entered frequency and re-entering the correct/desired frequency. Let's not forget that a quicker way to correct a frequency, avoiding multiple taps on the backspace, can be achieved by a tap and hold on the frequency.
+
+![alt text](taphold.png)
+
+Once the field value is seleced, typing a new frequency will wipe the old and replace with a new value.
+The same can be achieved in other fields such as the reference fields.
+
+![alt text](refedit.png)
+
+The tap and hold action can also be achieved by 3 quick taps to select the entire field value.

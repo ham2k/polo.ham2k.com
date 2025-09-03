@@ -3,7 +3,9 @@ title: Tips and Tricks
 weight: 200
 description: Helpful hints and shortcuts for using PoLo.
 ---
-### Shortcut Commands from the Callsign Input Field
+### Shortcut Commands entered in the Callsign Input Field (labelled "Their Call")
+
+![alt text](theircall.png)
 
 When you are in the callsign input field, you can use the following shortcuts, always followed by the `[Send]` key or button on the screen:
 
@@ -17,7 +19,7 @@ When you are in the callsign input field, you can use the following shortcuts, a
 
 * Enter a time or date to change the QSO time. For example `14:30` or `14:30:25` for time, or `05-09` for May 9th.
 
-* Enter a time difference to change the QSO time. For example, if you are logging a QSO at `14:30` and you type `+15m`, the time will change to `14:45`. If you type `-1h`, the time will change to `13:30`. You can use `h` for hours, `m` for minutes, and `s` for seconds, as well as `d` for days and `w` for weeks.
+* Enter a time difference to change the QSO time. For example, if you are logging a QSO at `14:30` and you type `+15m`, the time will change to `14:45`. If you type `-1h`, the time will change to `13:30`. You can use `h` for hours, `m` for minutes, and `s` for seconds, as well as `d` for days and `w` for weeks. **See also "Back to Now" in Post Logging below.**
 
 * Enter `QRV`, `QSY`, or `QRT` to self-spot with the respective comment. Enter `SPOTME` or `SPME` to self-spot with current frequency and mode but no comments.
 

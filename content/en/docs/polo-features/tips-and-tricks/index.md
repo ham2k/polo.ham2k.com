@@ -3,7 +3,9 @@ title: Tips and Tricks
 weight: 200
 description: Helpful hints and shortcuts for using PoLo.
 ---
-### Shortcut Commands from the Callsign Input Field
+### Shortcut Commands entered in the Callsign Input Field (labelled "Their Call")
+
+![alt text](theircall.png)
 
 When you are in the callsign input field, you can use the following shortcuts, always followed by the `[Send]` key or button on the screen:
 
@@ -17,7 +19,7 @@ When you are in the callsign input field, you can use the following shortcuts, a
 
 * Enter a time or date to change the QSO time. For example `14:30` or `14:30:25` for time, or `05-09` for May 9th.
 
-* Enter a time difference to change the QSO time. For example, if you are logging a QSO at `14:30` and you type `+15m`, the time will change to `14:45`. If you type `-1h`, the time will change to `13:30`. You can use `h` for hours, `m` for minutes, and `s` for seconds, as well as `d` for days and `w` for weeks.
+* Enter a time difference to change the QSO time. For example, if you are logging a QSO at `14:30` and you type `+15m`, the time will change to `14:45`. If you type `-1h`, the time will change to `13:30`. You can use `h` for hours, `m` for minutes, and `s` for seconds, as well as `d` for days and `w` for weeks. **See also "Back to Now" in Post Logging below.**
 
 * Enter `QRV`, `QSY`, or `QRT` to self-spot with the respective comment. Enter `SPOTME` or `SPME` to self-spot with current frequency and mode but no comments.
 
@@ -57,13 +59,19 @@ Entering your qrz.com credentials in Settings > Accounts > QRZ will enable PoLo 
 ### Post Logging
 Entering logs into PoLo from paper logs may be assisted by these quick entry commands.
 Using the callsign entry field:
-+ Type "14:55" to change the time. This also pauses the clock until you tap on the time and tap "Back to now"
-+ Type "-1m" or "+3m" to adjust the time back one or forward 3 minutes.
-+ Type "-1d" or "+3d" to adjust the days back one or forward 3 days.
-+ Type "7200" or "7.200" to set the frequency.
-+ Type "20m" to set the band - where no exact frequency is desired.
-+ Type "CW" or "SSB" to set the mode.
+
++ Type `14:55` to change the time. This also pauses the clock until you tap on the time and tap "Back to now"
++ Type `-1m` or `+3m` to adjust the time back one or forward 3 minutes.
++ Type `-1d` or `+3d` to adjust the days back one or forward 3 days.
++ Type `7200` or `7.200` to set the frequency.
++ Type `20m` to set the band - where no exact frequency is desired.
++ Type `CW` or `SSB` to set the mode.
+
 Consecutive entries will advance the QSO time by 1 minute per entry, you may wish to adjust back or forward when you move more than a few minutes away from your written log entries.
+
+When you have finished logging your entries, you can return the timer back to the current time by tapping the time and then the "Back to Now" button
+
+![alt text](back2now.png)
 
 ### Frequency and Reference editing
 Editing/correcting a frequency after a callsign has been entered can be achieved by tapping into the frequency box, backspacing out the entered frequency and re-entering the correct/desired frequency. Let's not forget that a quicker way to correct a frequency, avoiding multiple taps on the backspace, can be achieved by a tap and hold on the frequency.

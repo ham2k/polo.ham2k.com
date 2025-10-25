@@ -17,6 +17,9 @@ Sending a complete call will remove it from the stack and leave the stack ready 
 
 Continue until all fragments are corrected and submittted.
 
+#### Stacking expansions
+It's also possible to stack callsign partials which are actually expansions. Just add the expansion intot he stack and add another 2 dots or slashes. You can choose to expand this partial right away, or you can continue adding partials. Once all your partials are added, you can work your way back throught the stack. You will be prmoted to expand the expansion partials and send the expanded list to your log, then continue on with the rest of the stack.
+
 Watch this video for a live demonstration.
 
 [<img src="./callstacking.png" width=450>](https://youtu.be/bmCj8XjqP3c)

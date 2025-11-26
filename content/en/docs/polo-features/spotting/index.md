@@ -37,3 +37,6 @@ Attempting to Spot an existing log entry which is older than 10 minutes will be 
 ![oldlogentry](./spottingold.png)
 
 In this case you will need to spot them from a fresh entry in the **Their call** entry field. You will also need to enter a reference for the spot so it can be spotted in the relevant place e.g. 
+
+#### Auto Spotting
+It's also possible to set your spots running automatically. Spot yourself as normal and then within 15 seconds of sending your spot, open the spot controls again. You will notice the Spot Now button will show Auto-spot with a suggested interval of 10 minutes. Tap to confirm and you will be automatically spotted every ten minutes until you try to spot yourself again which gives the option to cancel the auto-spot. You can then re-spot yourself on another band or frequency and re-enable auto-spotting if you wish.

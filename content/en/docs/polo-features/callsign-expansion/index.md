@@ -32,3 +32,4 @@ The second tap of the send button will submit the list of callsigns into your op
 
 ![image](./expansion-2.png)
 
+See also [Callsign Stacking](../callsign-stacking/). You can combine the expansion partials into a callsign stack.

@@ -15,13 +15,13 @@ Type NOTE and you will be prompted to keep typing to add a free-form note into y
 ![alt text](noteline.png)
 
 #### WEATHER
-Enter WEATHER to pull the current weather for your location.
+Enter WEATHER to pull the current weather for your location. If you wait before pressing send, the weather information will be displayed on screen. If you then press send, it will be saved to the log.
 
 ![alt text](weather.png)
 
 
 #### SOLAR
-Enter SOLAR to pull the current solar data from https://www.hamqsl.com/solarxml.php and display the data in a QSO line of the operation.
+Enter SOLAR to pull the current solar data from [hamqsl.com](https://www.hamqsl.com/solarxml.php) and display the data in a QSO line of the operation. If you wait before pressing send, the weather information will be displayed on screen. If you then press send, it will be saved to the log.
 
 ![alt text](solardata.png)
 

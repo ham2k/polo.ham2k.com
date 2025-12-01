@@ -27,6 +27,5 @@ Enter SOLAR to pull the current solar data from [hamqsl.com](https://www.hamqsl.
 
 Notes entered in this form are exported as additional ADIF fields in the export file. They contain multibyte characters. The field names are not part of the ADIF specification and will be ignored by your usual logging program.
 
-The desktop version of PoLo will read this data and display it appropriately when your operations are accessed.
 
 ![alt text](adif.png)

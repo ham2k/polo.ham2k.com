@@ -1,31 +1,68 @@
 version: 1
+env:
+  variables:
+    # Application versions
+    DART_SASS_VERSION: 1.93.2
+    GO_VERSION: 1.25.3
+    HUGO_VERSION: 0.152.2
+    # Cache
+    HUGO_CACHEDIR: ${PWD}/.hugo
+    NPM_CONFIG_CACHE: ${PWD}/.npm
 frontend:
   phases:
     preBuild:
       commands:
-        - mkdir -p ./local
-        - wget -q https://go.dev/dl/go${VERSION_GO}.linux-amd64.tar.gz
-        - rm -rf ./local/go
-        - tar --overwrite -xzf go${VERSION_GO}.linux-amd64.tar.gz
-        - mv go ./local/go
-        - rm -rf go${VERSION_GO}.linux-amd64.tar.gz
-        - wget -q https://github.com/gohugoio/hugo/releases/download/v${VERSION_HUGO}/hugo_extended_${VERSION_HUGO}_Linux-64bit.tar.gz
-        - tar --overwrite -xf hugo_extended_${VERSION_HUGO}_Linux-64bit.tar.gz hugo
-        - mv hugo ./local/hugo
-        - rm -rf hugo_extended_${VERSION_HUGO}_Linux-64bit.tar.gz
-        - ./local/hugo version
-        - npm install --save-dev autoprefixer postcss-cli postcss
-    # IMPORTANT - Please verify your build commands
+        # Create directory for user-specific executable files
+        - echo "Creating directory for user-specific executable files..."
+        - mkdir -p "${HOME}/.local"
+
+        # Install Dart Sass
+        - echo "Installing Dart Sass ${DART_SASS_VERSION}..."
+        - curl -sLJO "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+        - tar -C "${HOME}/.local" -xf "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+        - rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+        - export PATH="${HOME}/.local/dart-sass:${PATH}"
+
+        # Install Go
+        - echo "Installing Go ${GO_VERSION}..."
+        - curl -sLJO "https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz"
+        - tar -C "${HOME}/.local" -xf "go${GO_VERSION}.linux-amd64.tar.gz"
+        - rm "go${GO_VERSION}.linux-amd64.tar.gz"
+        - export PATH="${HOME}/.local/go/bin:${PATH}"
+
+        # Install Hugo
+        - echo "Installing Hugo ${HUGO_VERSION}..."
+        - curl -sLJO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+        - mkdir "${HOME}/.local/hugo"
+        - tar -C "${HOME}/.local/hugo" -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+        - rm "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+        - export PATH="${HOME}/.local/hugo:${PATH}"
+
+        # Verify installations
+        - echo "Verifying installations..."
+        - "echo Dart Sass: $(sass --version)"
+        - "echo Go: $(go version)"
+        - "echo Hugo: $(hugo version)"
+        - "echo Node.js: $(node --version)"
+
+        # Install Node.js dependencies
+        - echo "Installing Node.js dependencies..."
+        - "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci --prefer-offline || true"
+
+        - npm install
+
+        # Configure Git
+        - echo "Configuring Git..."
+        - git config core.quotepath false
     build:
       commands:
-        - pwd
-        - export PATH=$PATH:./local/go/bin
-        - go version
-        - ./local/hugo
+        - echo "Building site..."
+        - hugo --gc --minify
   artifacts:
-    # IMPORTANT - Please verify your build output directory
     baseDirectory: public
     files:
-      - '**/*'
+      - "**/*"
   cache:
-    paths: []
+    paths:
+      - ${HUGO_CACHEDIR}/**/*
+      - ${NPM_CONFIG_CACHE}/**/*

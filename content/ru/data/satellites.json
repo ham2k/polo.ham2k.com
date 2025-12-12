@@ -1,0 +1,743 @@
+[
+  {
+    "name": "AO-7",
+    "number": 7530,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 29.4,
+        "upperMHz": 29.5
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 145.925,
+        "upperMHz": 145.975
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.85,
+        "upperMHz": 145.95
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 432.125,
+        "upperMHz": 432.175
+      }
+    ]
+  },
+  {
+    "name": "AO-27",
+    "number": 22825,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.795,
+        "upperMHz": 436.795
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.85,
+        "upperMHz": 145.85
+      }
+    ]
+  },
+  {
+    "name": "AO-73",
+    "number": 39444,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.95,
+        "upperMHz": 145.97
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.13,
+        "upperMHz": 435.15
+      }
+    ]
+  },
+  {
+    "name": "AO-91",
+    "number": 43017,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.96,
+        "upperMHz": 145.96
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 435.25,
+        "upperMHz": 435.25
+      }
+    ]
+  },
+  {
+    "name": "AO-92",
+    "number": 43017,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.88,
+        "upperMHz": 145.88
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 435.35,
+        "upperMHz": 435.35
+      }
+    ]
+  },
+  {
+    "name": "AO-123",
+    "number": 61781,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 435.4,
+        "upperMHz": 435.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.85,
+        "upperMHz": 145.85
+      }
+    ]
+  },
+  {
+    "name": "BeliefSat-0",
+    "number": 58695,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.98,
+        "upperMHz": 145.98
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 437,
+        "upperMHz": 437
+      }
+    ]
+  },
+  {
+    "name": "CAS-4A",
+    "number": 42761,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.86,
+        "upperMHz": 145.88
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.21,
+        "upperMHz": 435.23
+      }
+    ]
+  },
+  {
+    "name": "CAS-4B",
+    "number": 42759,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.915,
+        "upperMHz": 145.935
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.27,
+        "upperMHz": 435.29
+      }
+    ]
+  },
+  {
+    "name": "FO-29",
+    "number": 424278,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.8,
+        "upperMHz": 435.9
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.9,
+        "upperMHz": 146
+      }
+    ]
+  },
+  {
+    "name": "FO-99",
+    "number": 43937,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.88,
+        "upperMHz": 435.91
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.9,
+        "upperMHz": 145.93
+      }
+    ]
+  },
+  {
+    "name": "IO-86",
+    "number": 40931,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.825,
+        "upperMHz": 435.88
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.825,
+        "upperMHz": 145.88
+      }
+    ]
+  },
+  {
+    "name": "IO-117",
+    "number": 53106,
+    "modulation": "digital",
+    "downlinks": [
+      {
+        "mode": "digital",
+        "lowerMHz": 435.31,
+        "upperMHz": 435.31
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "digital",
+        "lowerMHz": 435.31,
+        "upperMHz": 435.31
+      }
+    ]
+  },
+  {
+    "name": "ARISS",
+    "number": 25544,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 437.8,
+        "upperMHz": 437.8
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.99,
+        "upperMHz": 145.99
+      }
+    ]
+  },
+  {
+    "name": "JO-97",
+    "number": 43803,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.855,
+        "upperMHz": 145.875
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.1,
+        "upperMHz": 435.12
+      }
+    ]
+  },
+  {
+    "name": "LEDSAT",
+    "number": 49069,
+    "modulation": "digital",
+    "downlinks": [
+      {
+        "mode": "digital",
+        "lowerMHz": 435.19,
+        "upperMHz": 435.19
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "digital",
+        "lowerMHz": 435.31,
+        "upperMHz": 435.31
+      }
+    ]
+  },
+  {
+    "name": "CAS-3H",
+    "number": 40908,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 437.2,
+        "upperMHz": 437.2
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 144.35,
+        "upperMHz": 144.35
+      }
+    ]
+  },
+  {
+    "name": "PO-101",
+    "number": 43678,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.9,
+        "upperMHz": 145.9
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 437.5,
+        "upperMHz": 437.5
+      }
+    ]
+  },
+  {
+    "name": "RS-44",
+    "number": 44909,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.61,
+        "upperMHz": 435.67
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.935,
+        "upperMHz": 145.995
+      }
+    ]
+  },
+  {
+    "name": "SO-50",
+    "number": 27607,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.795,
+        "upperMHz": 436.795
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.85,
+        "upperMHz": 145.85
+      }
+    ]
+  },
+  {
+    "name": "SO-121",
+    "number": 58567,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.663,
+        "upperMHz": 436.663
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.875,
+        "upperMHz": 145.875
+      }
+    ]
+  },
+  {
+    "name": "SO-124",
+    "number": 62690,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.888,
+        "upperMHz": 436.888
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.925,
+        "upperMHz": 145.925
+      }
+    ]
+  },
+  {
+    "name": "SO-125",
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.666,
+        "upperMHz": 436.666
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.875,
+        "upperMHz": 145.875
+      }
+    ]
+  },
+  {
+    "name": "TO-108",
+    "number": 44909,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.915,
+        "upperMHz": 145.935
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.27,
+        "upperMHz": 435.29
+      }
+    ]
+  },
+  {
+    "name": "XW-2A",
+    "number": 40903,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.665,
+        "upperMHz": 145.685
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.03,
+        "upperMHz": 435.05
+      }
+    ]
+  },
+  {
+    "name": "XW-2B",
+    "number": 40911,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.73,
+        "upperMHz": 145.75
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.09,
+        "upperMHz": 435.11
+      }
+    ]
+  },
+  {
+    "name": "XW-2C",
+    "number": 40906,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.975,
+        "upperMHz": 145.815
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.15,
+        "upperMHz": 435.17
+      }
+    ]
+  },
+  {
+    "name": "EO-88",
+    "number": 42017,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.96,
+        "upperMHz": 145.99
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.015,
+        "upperMHz": 435.045
+      }
+    ]
+  },
+  {
+    "name": "HO-113",
+    "number": 50466,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.165,
+        "upperMHz": 435.195
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.855,
+        "upperMHz": 145.885
+      }
+    ]
+  },
+  {
+    "name": "HO-119",
+    "number": 54816,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.165,
+        "upperMHz": 435.195
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.855,
+        "upperMHz": 145.885
+      }
+    ]
+  },
+  {
+    "name": "MO-122",
+    "number": 60209,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 435.81,
+        "upperMHz": 435.84
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 145.94,
+        "upperMHz": 145.94
+      }
+    ]
+  },
+  {
+    "name": "Tevel-2",
+    "number": 51069,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.4,
+        "upperMHz": 436.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.97,
+        "upperMHz": 145.97
+      }
+    ]
+  },
+  {
+    "name": "Tevel-3",
+    "number": 50988,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.4,
+        "upperMHz": 436.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.97,
+        "upperMHz": 145.97
+      }
+    ]
+  },
+  {
+    "name": "Tevel-4",
+    "number": 51063,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.4,
+        "upperMHz": 436.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.97,
+        "upperMHz": 145.97
+      }
+    ]
+  },
+  {
+    "name": "Tevel-5",
+    "number": 50998,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.4,
+        "upperMHz": 436.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.97,
+        "upperMHz": 145.97
+      }
+    ]
+  },
+  {
+    "name": "Tevel-6",
+    "number": 50999,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.4,
+        "upperMHz": 436.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.97,
+        "upperMHz": 145.97
+      }
+    ]
+  },
+  {
+    "name": "Tevel-7",
+    "number": 51062,
+    "modulation": "fm",
+    "downlinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 436.4,
+        "upperMHz": 436.4
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "fm",
+        "lowerMHz": 145.97,
+        "upperMHz": 145.97
+      }
+    ]
+  },
+  {
+    "name": "QO-100",
+    "number": 43700,
+    "modulation": "linear",
+    "downlinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 10489.5,
+        "upperMHz": 10489.8
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 10491,
+        "upperMHz": 10499.8
+      }
+    ],
+    "uplinks": [
+      {
+        "mode": "linear",
+        "lowerMHz": 2400.05,
+        "upperMHz": 2400.3
+      },
+      {
+        "mode": "linear",
+        "lowerMHz": 2401.5,
+        "upperMHz": 2409.5
+      }
+    ]
+  }
+]

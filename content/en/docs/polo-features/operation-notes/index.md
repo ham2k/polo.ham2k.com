@@ -25,7 +25,25 @@ Enter SOLAR to pull the current solar data from [hamqsl.com](https://www.hamqsl.
 
 ![alt text](solardata.png)
 
-Notes entered in this form are exported as additional ADIF fields in the export file. They contain multibyte characters. The field names are not part of the ADIF specification and will be ignored by your usual logging program.
+Notes entered in this form are exported as additional ADIF fields in the export file. They contain multibyte characters (HTML encoded emojis). The field names are not part of the ADIF specification and will be ignored by your usual logging program.
 
 
 ![alt text](adif.png)
+
+See also [Rove Operations](../rove-operations/) for and explanation of the BREAK command.
+
+#### Consuming the PoLo Notes
+
+The PoLo notes, SOLAR, WEATHER, NOTE, START, BREAK are all exported in the ADIF file as the following ADIF fields:
+``` 
+X_HAM2K_SOLAR
+X_HAM2K_SOLAR_DATA
+X_HAM2K_WEATHER
+X_HAM2K_WEATHER_DATA
+X_HAM2K_NOTE
+X_HAM2K_START
+X_HAM2K_BREAK
+```
+These fields will be ignored by most applications processing ADIF files but they may be of interest to some application developers.
+
+While the format of SOLAR and WEATHER are as you see them on screen, the format of the SOLAR_DATA and WEATHER_DATA fields which are exported only, is json and can be further parsed.

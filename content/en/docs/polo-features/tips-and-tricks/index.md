@@ -5,6 +5,8 @@ description: Helpful hints and shortcuts for using PoLo.
 ---
 ### Shortcut Commands entered in the Callsign Input Field (labelled "Their Call")
 
+See also [Operation Notes](../operation-notes/) and [Rove Operations](../rove-operations/) for other entry field commands.
+
 ![alt text](theircall.png)
 
 When you are in the callsign input field, you can use the following shortcuts, always followed by the `[Send]` key or button on the screen:

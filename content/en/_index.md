@@ -2,7 +2,7 @@
 title: PoLo Portable Logger
 ---
 
-{{< blocks/cover image_anchor="top" height="full" >}}
+{{< blocks/cover image_anchor="center" height="full" >}}
 <h1><light>Ham2K</light><br />Portable Logger</h1>
 
 <p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>

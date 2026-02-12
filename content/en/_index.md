@@ -3,7 +3,9 @@ title: PoLo Portable Logger
 ---
 
 {{< blocks/cover image_anchor="center" height="full" >}}
-<h1><light>Ham2K</light><br />Portable Logger</h1>
+<h1 style="margin-bottom: 1rem;">
+  <img src="./polo-wordmark.png" alt="Ham2K Portable Logger" style="min-width: 250px; width: 60%; max-width: 350px;" />
+</h1>
 
 <p class="lead mt-5">The fastest, easiest, bestest way to log your amateur radio operations on the go.</p>
 
